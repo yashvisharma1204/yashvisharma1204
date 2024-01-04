@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
-![octocat-1704400097793](https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/ad1810df-81a0-41a4-85e6-11f3ac5780f6)
+<img src="(https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/ad1810df-81a0-41a4-85e6-11f3ac5780f6)">
 
 - 🔭 I’m currently working on **E-commerce Website**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvisharma1204&show_icons=true&locale=en" alt="yashvisharma1204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvisharma1204&" alt="yashvisharma1204" /></p>
-<img src=![octocat-1704400097793](https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/15124eaa-1fb8-435d-9ea8-bd7c0bad2411)>
