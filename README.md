@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvisharma1204&show_icons=true&locale=en" alt="yashvisharma1204" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvisharma1204&" alt="yashvisharma1204" /></p>
+<img src=![octocat-1704400097793](https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/15124eaa-1fb8-435d-9ea8-bd7c0bad2411)>
