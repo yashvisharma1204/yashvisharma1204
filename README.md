@@ -1,7 +1,6 @@
 - 👋 Hello, I’m **Yashvi** **Sharma**
 - ✨ I am pursuing B.Tech in **LPU**
 - 👀 I’m interested in Data Engineering and AI developing
-- 🌱 I’m currently learning **C language** and **Python**
 - 📫 How to reach me : yashvi.sharma1204@gmail.com
 
 
