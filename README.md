@@ -1,4 +1,5 @@
-![Header](./your-header-image-name.png)
+<h1 align="center">Hi 👋, I'm Yashvi Sharma</h1>
+<h3 align="center">A passionate student developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
 
