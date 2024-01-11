@@ -11,3 +11,4 @@ Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Yashvisharma1204&limit=5&theme=dark&combine_all_yearly_contributions=true)
