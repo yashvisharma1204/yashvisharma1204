@@ -1,8 +1,8 @@
 ## Hello there 👋
 
 #### A Student by day ☼ and a Web-Developer by night ☾
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-Student at [Lovely Professional University](https://www.lpu.in/);<br>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=purple)<br>
+Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
 - 🌍 I’m currently learning **Machine learning** and **React.JS**
