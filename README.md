@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello there 👋
 
 #### A Student by day ☼ and a Web-Developer by night ☾
 
@@ -10,4 +10,4 @@ Student at [Lovely Professional University](https://www.lpu.in/);<br>
 - 💬 `ping` me about **design**,**development**, **design thinking**
 
 
-![yashvisharma1204's Stats](https://github-readme-stats.vercel.app/api?username=yashvisharma1204&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![yashvisharma1204's Stats](https://github-readme-stats.vercel.app/api?username=yashvisharma1204&theme=nightowl&show_icons=true&hide_border=true&count_private=true)![yashvisharma1204's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvisharma1204&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
