@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 #### A Student by day ☼ and a Web-Developer by night ☾
-![](https://komarev.com/ghpvc/?username=your-github-username&color=purple)<br>
+[![](https://visitcount.itsvg.in/api?id=Yashvisharma1204&icon=7&color=6)](https://visitcount.itsvg.in)(<br>
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
@@ -10,4 +10,4 @@ Student at [Lovely Professional University](https://www.lpu.in/)<br>
 - 💬 `ping` me about **design**,**development**, **design thinking**
 
 
-![yashvisharma1204's Stats](https://github-readme-stats.vercel.app/api?username=yashvisharma1204&theme=nightowl&show_icons=true&hide_border=true&count_private=true)            ![yashvisharma1204's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvisharma1204&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
