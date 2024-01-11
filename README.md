@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 #### A Student by day ☼ and a Web-Developer by night ☾
-[![](https://visitcount.itsvg.in/api?id=Yashvisharma1204&icon=7&color=6)](https://visitcount.itsvg.in)(<br>
+[![](https://visitcount.itsvg.in/api?id=Yashvisharma1204&label=Profile%20Views&color=6&icon=7&pretty=true)](https://visitcount.itsvg.in)<br>
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
