@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 #### A Student by day ☼ and a Web-Developer by night ☾
-![](https://komarev.com/ghpvc/?username=yashvisharma1204)<br>
+![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=blueviolet)<br>
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
