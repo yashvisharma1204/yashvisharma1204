@@ -17,4 +17,4 @@
 
 <h3 align="left">Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&width=100px)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
