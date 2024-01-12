@@ -1,7 +1,8 @@
-## Hello there 👋
+## Hello there 👋 I'm Yashvi Sharma
 
 #### A Student by day ☼ and a Web-Developer by night ☾
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
