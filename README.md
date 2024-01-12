@@ -1,5 +1,6 @@
 <img src="Make your README.png">
-![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)
+![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=green)
+<br>
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
