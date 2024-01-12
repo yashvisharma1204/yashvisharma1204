@@ -2,7 +2,7 @@
 
 #### A Student by day ☼ and a Web-Developer by night ☾
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
-![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true)
+![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
 Student at [Lovely Professional University](https://www.lpu.in/)<br>
 
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
