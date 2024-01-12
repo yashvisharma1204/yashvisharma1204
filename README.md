@@ -1,6 +1,4 @@
-
-
-![](https://github.com/yashvisharma1204/yashvisharma1204/blob/main/Make%20your%20README.png")
+<img src="Make your README.png">
 
 
 #### A Student by day ☼ and a Web-Developer by night ☾
