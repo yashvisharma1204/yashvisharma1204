@@ -1,8 +1,9 @@
 <img src="Make your README.png">
+
+
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=green)
 <br>
-Student at [Lovely Professional University](https://www.lpu.in/)<br>
-
+Student at ![Lovely Professional University](https://www.lpu.in/)<br>
 - ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.sql`, `.c`, `.java`
 - 🌍 I’m currently learning **Machine learning** and **React.JS**
 - 💅 I’m currently working on ***E-commerce Website***
