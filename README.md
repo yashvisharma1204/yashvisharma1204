@@ -1,4 +1,8 @@
-## Hello there 👋 I'm Yashvi Sharma
+<p align=”center”>
+
+<img width=”200" height=”200" src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/Make%20your%20README.png" alt=”my banner”>
+
+</p>
 
 #### A Student by day ☼ and a Web-Developer by night ☾
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
