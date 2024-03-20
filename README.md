@@ -1,20 +1,24 @@
-<img src="Make your README.png">
-
 
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
 ![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
 <br>
+Experience the magic of Studio Ghibli in my GitHub corner, where creativity and technology intertwine like never before.
 
-- 📚 I’m currently a Student at **Lovely Professional University**
-- 🔭 I’m currently working on *Chatbot*
-- 🌱 I’m currently learning *JS and Machine Learning*
-- 👯 I’m looking to collaborate on *Web-Development projects*
-- 🤝 I’m looking for help with *Machine learning projects*
-- 👨‍💻 All of my projects are available at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
-- 📫 How to reach me **yashvisharma1204@gmail.com**
-- 📄 Check out my [CV](https://yashvicv.tiiny.site)
+## Wanderer's Profile 🍃
 
-<h3 align="left">Languages and Tools</h3>
+- 📚 A Scholar at **Lovely Professional University**
+- 🔭 Currently Enchanted by *Chatbots*
+- 🌱 Learning the Secrets of *JS and Machine Learning*
+- 👯 Seeking Companions for *Web Development Expeditions*
+- 🤝 Offering Assistance with *Machine Learning Spells*
+- 👨‍💻 Discover My Creations at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
+- 📫 Send Your Messages by Owl Post: **yashvisharma1204@gmail.com**
+- 📄 Delve into My Story: [CV](https://yashvicv.tiiny.site)
+
+## Spells and Enchantments ✨
+
+Unveil the magical tools and languages I wield:
+
 
 ###
 
@@ -52,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
 </div>
 
-
+<br><br>
 <h3 align="left">Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
