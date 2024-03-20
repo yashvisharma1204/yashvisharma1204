@@ -1,33 +1,47 @@
 # Welcome to my GitHub Wonderland! 🌟
 
-![Studio Ghibli Banner](https://i.imgur.com/ABC123.jpg)
+![](https://i.imgur.com/Make_your_README.png)
+
+![Magical Visitor Count](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)
+
+![Ghibli Trophy](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
 
 ## About Me 🎈
 
-I'm **Yashvi Sharma**, a spirited web developer from the mystical realm of **Spirited Away**. My journey through the enchanted lands of coding began when I stumbled upon the magical language of HTML and CSS. Since then, I've been on a quest to unravel the secrets of JavaScript and beyond!
+- 📚 I’m currently a Student at **Lovely Professional University**
+- 🔭 I’m currently working on *Chatbot*
+- 🌱 I’m currently learning *JS and Machine Learning*
+- 👯 I’m looking to collaborate on *Web-Development projects*
+- 🤝 I’m looking for help with *Machine learning projects*
+- 👨‍💻 All of my projects are available at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
+- 📫 How to reach me **yashvisharma1204@gmail.com**
+- 📄 Check out my [CV](https://yashvicv.tiiny.site)
 
-- 💻 Currently exploring the magical realms of React and Node.js.
-- 📚 Learning new spells at the Coding Academy of Laputa.
-- ✨ Fun Fact: I believe that "All you need is a little magic!" – Calcifer
+## 🌌 Languages and Tools:
 
-## Tech Magic ✨
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+</p>
 
-- **Spells**: HTML, CSS, JavaScript, React
-- **Potions**: Bootstrap, Tailwind CSS
-- **Enchanted Tools**: VS Code, Git, GitHub
+## 🌟 Stats:
 
-## Connect with Me 🌌
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashvisharma1204)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvisharma1204)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yashvisharma1204)
-
-## Magical GitHub Stats 🌟
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yashvisharma1204&show_icons=true&theme=great-gatsby)
-
-![Top Spells](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvisharma1204&layout=compact&theme=great-gatsby)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)
 
 ---
 
-_"Adventure is out there!" – Up_ 🎈
+_"Magic is believing in yourself. If you can do that, you can make anything happen."_ – Goemon, _Spirited Away_ 🌟
