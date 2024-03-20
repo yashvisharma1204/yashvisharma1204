@@ -34,7 +34,8 @@ I'm currently a student at the esteemed **Lovely Professional University**, wher
 - 📫 Send Your Messages by Owl Post: **yashvisharma1204@gmail.com**
 - 📄 Delve into My Story: [CV](https://yashvicv.tiiny.site)
 <br>
-<br>
+
+
 ## Spells and Enchantments ✨
 In my travels, I've gathered an array of enchanted tools and potions to aid me on my quest:
 
