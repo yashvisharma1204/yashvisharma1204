@@ -21,4 +21,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
 
-![Snake animation](https://github.com/yashvisharma1204/yashvisharma1204/blob/output/github-contribution-grid-snake.svg)
