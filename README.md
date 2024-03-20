@@ -25,7 +25,7 @@ Welcome to my enchanted GitHub forest! I'm [Your Name], a wandering spirit in th
 ## My University
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
 
 ###
 
@@ -33,7 +33,8 @@ I'm currently a student at the esteemed **Lovely Professional University**, wher
 - 👨‍💻 Discover My Creations at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
 - 📫 Send Your Messages by Owl Post: **yashvisharma1204@gmail.com**
 - 📄 Delve into My Story: [CV](https://yashvicv.tiiny.site)
-
+<br>
+<br>
 ## Spells and Enchantments ✨
 In my travels, I've gathered an array of enchanted tools and potions to aid me on my quest:
 
