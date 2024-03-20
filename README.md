@@ -1,22 +1,33 @@
-<img src="Make your README.png">
+# Welcome to my GitHub Wonderland! 🌟
 
+![Studio Ghibli Banner](https://i.imgur.com/ABC123.jpg)
 
-![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
-![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
-<br>
+## About Me 🎈
 
-- 📚 I’m currently a Student at **Lovely Professional University**
-- 🔭 I’m currently working on *Chatbot*
-- 🌱 I’m currently learning *JS and Machine Learning*
-- 👯 I’m looking to collaborate on *Web-Development projects*
-- 🤝 I’m looking for help with *Machine learning projects*
-- 👨‍💻 All of my projects are available at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
-- 📫 How to reach me **yashvisharma1204@gmail.com**
-- 📄 Check out my [CV](https://yashvicv.tiiny.site)
+I'm **Chihiro**, a spirited web developer from the mystical realm of **Spirited Away**. My journey through the enchanted lands of coding began when I stumbled upon the magical language of HTML and CSS. Since then, I've been on a quest to unravel the secrets of JavaScript and beyond!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </p><br>
+- 💻 Currently exploring the magical realms of React and Node.js.
+- 📚 Learning new spells at the Coding Academy of Laputa.
+- ✨ Fun Fact: I believe that "All you need is a little magic!" – Calcifer
 
-<h3 align="left">Stats:</h3>
+## Tech Magic ✨
 
-![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
+- **Spells**: HTML, CSS, JavaScript, React
+- **Potions**: Bootstrap, Tailwind CSS
+- **Enchanted Tools**: VS Code, Git, GitHub
+
+## Connect with Me 🌌
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chihiro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chihiro)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/chihiro)
+
+## Magical GitHub Stats 🌟
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chihiro&show_icons=true&theme=great-gatsby)
+
+![Top Spells](https://github-readme-stats.vercel.app/api/top-langs/?username=chihiro&layout=compact&theme=great-gatsby)
+
+---
+
+_"Adventure is out there!" – Up_ 🎈
