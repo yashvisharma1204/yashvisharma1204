@@ -25,7 +25,7 @@ Welcome to my enchanted GitHub forest! I'm [Your Name], a wandering spirit in th
 ## My University
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
 
 ###
 
