@@ -6,7 +6,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
 <br>
 
-- 📚 Current Residence: **Lovely Professional University**
+🌟 **Introduction** 🌟
+- 🧙‍♀️ Greetings! I am Yashvi Sharma, a spirited first-year student of Computer Science and Engineering.
+- 🏰 Currently exploring the magical realms of knowledge at **Lively Professional University**.
+
+🔮 **Magical Journey** 🔮
 - 🔭 Currently Enchanted by: *Animating a Chatbot*
 - 🌱 Currently Learning: *Spells of JS and Magic of Machine Learning*
 - 👯 Seeking Allies for: *Web-Development Adventures*
