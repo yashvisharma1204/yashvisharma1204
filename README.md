@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
 ## About Me
 
-Welcome to my enchanted GitHub forest! I'm [Your Name], a wandering spirit in this vast digital realm. Just like a character in a Studio Ghibli film, I'm on a quest for knowledge, creativity, and meaningful connections.
+Welcome to my enchanted GitHub forest! I'm **Yashvi Sharma**, a wandering spirit in this vast digital realm. Just like a character in a Studio Ghibli film, I'm on a quest for knowledge, creativity, and meaningful connections.
 
 ## Journey Highlights
 ![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
@@ -12,13 +12,13 @@ Welcome to my enchanted GitHub forest! I'm [Your Name], a wandering spirit in th
 
 ### 🌱 Current Quests
 
-- **Learning the Ways of the Code**: Delving into the mysteries of programming languages and web development.
-- **Venturing into the World of AI**: Exploring the magic of artificial intelligence and machine learning.
-- **Crafting Beautiful Creations**: Building stunning websites and applications that inspire wonder.
+- **Learning the Ways of the Code**: Delving into the mysteries of **_programming languages_** and **_web development_.**
+- **Venturing into the World of AI**: Exploring the magic of **_artificial intelligence_** and **_machine learning._**
+- **Crafting Beautiful Creations**: Building stunning **websites** and **applications** that inspire wonder.
 
 ### 🔭 Recent Adventures
 
-- **Unleashing the Power of Chatbots**: Crafting interactive bots to enchant and assist fellow travelers.
+- **Unleashing the Power of Chatbots**: Crafting _interactive bots_ to enchant and assist fellow travelers.
 - **Creating Pixel Art Masterpieces**: Bringing whimsical characters and landscapes to life in the digital realm.
 - **Exploring New Horizons**: Embarking on collaborative journeys with kindred spirits in the GitHub community.
 
