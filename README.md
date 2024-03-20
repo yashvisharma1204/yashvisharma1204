@@ -1,5 +1,4 @@
-<!-- Ghibli-inspired README -->
-
+## Hi, I am Yashvi Sharma
 <img src="Ghibli_Header.png">
 
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
@@ -7,8 +6,8 @@
 <br>
 
 🌟 **Introduction** 🌟
-- 🧙‍♀️ Greetings! I am Yashvi Sharma, a spirited first-year student of Computer Science and Engineering.
-- 🏰 Currently exploring the magical realms of knowledge at **Lively Professional University**.
+- 🧙‍♀️ Greetings! I am a spirited first-year student of Computer Science and Engineering.
+- 🏰 Currently exploring the magical realms of knowledge at **Lovely Professional University**.
 
 🔮 **Magical Journey** 🔮
 - 🔭 Currently Enchanted by: *Animating a Chatbot*
