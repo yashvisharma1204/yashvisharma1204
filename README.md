@@ -21,6 +21,11 @@ Welcome to my enchanted GitHub forest! I'm [Your Name], a wandering spirit in th
 - **Exploring New Horizons**: Embarking on collaborative journeys with kindred spirits in the GitHub community.
 
 ## My University
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
+
+###
 
 I'm currently a student at the esteemed **Lovely Professional University**, where I'm honing my skills and expanding my knowledge in the realms of technology and creativity.
 - 👨‍💻 Discover My Creations at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
@@ -29,11 +34,6 @@ I'm currently a student at the esteemed **Lovely Professional University**, wher
 
 ## Spells and Enchantments ✨
 In my travels, I've gathered an array of enchanted tools and potions to aid me on my quest:
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
