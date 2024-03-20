@@ -1,5 +1,5 @@
 # Welcome to My GitHub World 🌟
-<img width = 100px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhkcDhwajkzYmp3dzJjZ3IzdzdpNnZ0Y2loeDZhYTk4bXZwc2dkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
+<img width = 600px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhkcDhwajkzYmp3dzJjZ3IzdzdpNnZ0Y2loeDZhYTk4bXZwc2dkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=yashvisharma1204&color=yellow)<br>
 ## About Me
