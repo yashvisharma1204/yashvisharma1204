@@ -70,8 +70,6 @@ In my travels, I've gathered an array of enchanted tools and potions to aid me o
 </div>
 
 <br>
-<br>
-<br>
 <h3 align="left">Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
