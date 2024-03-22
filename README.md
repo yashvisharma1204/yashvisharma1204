@@ -77,7 +77,8 @@ In my travels, I've gathered an array of enchanted tools and potions to aid me o
 
 ## Farewell, Fellow Traveler
 Thank you for visiting my GitHub sanctuary! May your own journey be filled with wonder, discovery, and the occasional encounter with forest spirits. Until we meet again, may the code be with you, and may your dreams take flight on the wings of a Studio Ghibli-inspired adventure.
-![image](https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/d4e2ba49-2a9a-4885-8139-54a94041591c)
+![image](https://github.com/yashvisharma1204/yashvisharma1204/assets/137611141/612095ca-b583-4b29-aaf6-761607c1ef96)
+
 
 
 
