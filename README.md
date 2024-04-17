@@ -32,7 +32,7 @@ Welcome to my enchanted GitHub forest! I'm **Yashvi Sharma**, a wandering spirit
 I'm currently a student at the esteemed **Lovely Professional University**, where I'm honing my skills and expanding my knowledge in the realms of technology and creativity.
 - 👨‍💻 Discover My Creations at [Portfolio](https://yashvisharma1204.github.io/Portfolio/)
 - 📫 Send Your Messages by Owl Post: **yashvisharma1204@gmail.com**
-- 📄 Delve into My Story: [CV](https://app.enhancv.com/share/66dc68db/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Delve into My Stories: [BLOG!]([https://app.enhancv.com/share/66dc68db/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynami](https://blog95319.wordpress.com/)c)
 <br>
 
 
