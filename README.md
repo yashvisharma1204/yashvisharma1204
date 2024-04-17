@@ -12,7 +12,7 @@ Welcome to my enchanted GitHub forest! I'm **Yashvi Sharma**, a wandering spirit
 ## My University
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/96/51/f4/9651f4ec7a53f7b74a0b289bf0cc8b33.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/564x/1f/c6/c7/1fc6c7dd9cfa4a5f932d5328c2477fb2.jpg"  />
 
 ###
 
