@@ -9,19 +9,6 @@ Welcome to my enchanted GitHub forest! I'm **Yashvi Sharma**, a wandering spirit
 ## Journey Highlights
 ![](https://github-profile-trophy.vercel.app/?username=yashvisharma1204&no-bg=true&theme=onedark)
 
-
-### 🌱 Current Quests
-
-- **Learning the Ways of the Code**: Delving into the mysteries of **_programming languages_** and **_web development_.**
-- **Venturing into the World of AI**: Exploring the magic of **_artificial intelligence_** and **_machine learning._**
-- **Crafting Beautiful Creations**: Building stunning **websites** and **applications** that inspire wonder.
-
-### 🔭 Recent Adventures
-
-- **Unleashing the Power of Chatbots**: Crafting _interactive bots_ to enchant and assist fellow travelers.
-- **Creating Pixel Art Masterpieces**: Bringing whimsical characters and landscapes to life in the digital realm.
-- **Exploring New Horizons**: Embarking on collaborative journeys with kindred spirits in the GitHub community.
-
 ## My University
 ###
 
@@ -37,8 +24,6 @@ I'm currently a student at the esteemed **Lovely Professional University**, wher
 
 
 ## Spells and Enchantments ✨
-In my travels, I've gathered an array of enchanted tools and potions to aid me on my quest:
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -74,9 +59,6 @@ In my travels, I've gathered an array of enchanted tools and potions to aid me o
 
 ![](https://github-readme-stats.vercel.app/api?username=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Yashvisharma1204&theme=vision-friendly-dark&hide_border=true)<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvisharma1204&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
-
-## Farewell, Fellow Traveler
-Thank you for visiting my GitHub sanctuary! May your own journey be filled with wonder, discovery, and the occasional encounter with forest spirits. Until we meet again, may the code be with you, and may your dreams take flight on the wings of a Studio Ghibli-inspired adventure.
 
 
 
