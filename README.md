@@ -7,7 +7,7 @@ A Student by day ☼ and a developer by night ☾
 
 ⚙️ I use daily: `.sql`, .`js`, `.html`, `.css`, `.py`, `.c`, `.gen ai`
 
-🌍 I'm mostly active within the ![Linkedin](https://www.linkedin.com/in/yashvi-sharma-150863220/)
+🌍 I'm mostly active within the [Linkedin](https://www.linkedin.com/in/yashvi-sharma-150863220/)
 
 💅 Designed: @pestphp, NorthMeetsSouth.audio, ThenPing.me, HappydDev.fm, etc…
 
