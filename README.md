@@ -13,4 +13,4 @@ A Student by day ☼ and a developer by night ☾
 
 💅 Currently working on a project based on **Generative AI**
 
-💬 [Ping me](yashvisharma503@gmail.com) about design, , development,and design thinking  
+💬 [Ping me](yashvisharma503@gmail.com) about design, development,and design thinking  
