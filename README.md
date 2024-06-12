@@ -14,4 +14,4 @@ A Student by day ☼ and a developer by night ☾
 💅 Currently working on a project based on **Generative AI**
 
 💬 [Ping me](yashvisharma503@gmail.com) about design, development,and design thinking  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=https://github.com/yashvisharma1204/Portfolio)](https://github.com/yashvisharma1204/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=github-readme-stats)](https://github.com/yashvisharma1204/Portfolio)
