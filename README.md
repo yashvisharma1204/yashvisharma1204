@@ -15,4 +15,4 @@ A Student by day ☼ and a developer by night ☾
 
 💬 [Ping me](yashvisharma503@gmail.com) about design, development,and design thinking  
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Portfolio&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Portfolio&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
