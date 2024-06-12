@@ -1,5 +1,5 @@
 # Hello there 👋
-<img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
 
 A Student by day ☼ and a developer by night ☾
 
