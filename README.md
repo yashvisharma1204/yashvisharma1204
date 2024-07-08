@@ -16,7 +16,7 @@ A Student by day ☼ and a developer by night ☾
 
 💬 [Ping me](yashvisharma503@gmail.com) about design, development,and design thinking  
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yashvisharma1204/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Portfolio&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
