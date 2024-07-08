@@ -1,20 +1,36 @@
 # Hello there 👋
 <img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+A Student by day ☼ and a Developer by night ☾
 
-A Student by day ☼ and a developer by night ☾
+**Computer Science and Engineering Student at Lovely Professional University**  
+*Specialization in AI and Data Engineering*
 
-- Computer Science and Engineering student at Lovely Professional University
-- Specialisation in AI and Data Engineering
+**Skills I Use Daily:**
+- ⚙️ SQL
+- 💻 JavaScript
+- 🌐 HTML & CSS
+- 🐍 Python
+- 💡 C
 
-⚙️ I use daily: `.sql`, .`js`, `.html`, `.css`, `.py`, `.c`.
+**Passions:**
+- 🤖 Machine Learning
+- 🗣️ Natural Language Processing (NLP)
+- 🌟 Generative AI
+- 🧠 Large Language Models (LLM)
 
-🤖 Passionate about **ML**, **NLP**, **Generative AI** and **LLM**
+**Current Endeavors:**
+- 💼 Interning in Strategy Operations at Chamberly AB
+- 💅 Working on a Generative AI Project
 
-🌍 I'm mostly active within the [Linkedin](https://www.linkedin.com/in/yashvi-sharma-150863220/)
+**Let's Connect:**
+- 🌍 I'm mostly active on LinkedIn
+- 💬 Ping me about design, development, and design thinking
 
-💅 Currently working on a project based on **Generative AI**
+I'm excited to connect with like-minded individuals and explore opportunities to learn and grow together. Feel free to reach out!
 
-💬 [Ping me](yashvisharma503@gmail.com) about design, development,and design thinking  
+LinkedIn: [Yashvi Sharma](https://www.linkedin.com/in/yashvi-sharma-150863220/)
+
+Looking forward to connecting with you all!
 <br>
 <a href="https://github.com/yashvisharma1204/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Portfolio&theme=transparent" />
