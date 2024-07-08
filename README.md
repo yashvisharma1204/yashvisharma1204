@@ -1,7 +1,8 @@
 # Hello there 👋
-<img align="right" src="https://octodex.github.com/images/NUX_Octodex.gif"/>
+
 A Student by day ☼ and a Developer by night ☾
 <br>
+
 **Computer Science and Engineering Student at Lovely Professional University**  
 *Specialization in AI and Data Engineering*
 
