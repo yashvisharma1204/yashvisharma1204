@@ -19,6 +19,6 @@ A Student by day ☼ and a developer by night ☾
 <a href="https://github.com/yashvisharma1204/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Portfolio&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yashvisharma1204/Profile_Card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashvisharma1204&repo=Profile_Card&theme=transparent" />
 </a>
