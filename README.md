@@ -3,12 +3,13 @@
 A Student by day ☼ and a Developer by night ☾
 
 **Computer Science and Engineering Student at Lovely Professional University**, specializing in AI and Data Engineering.
+**🎓 Interning in Strategy Operations at Chamberly AB**
 
-**⚙️ I use daily:** `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`  
-**🌍 I'm mostly active on LinkedIn**  
-**💡 Passions:** Machine Learning, NLP, Generative AI, Large Language Models (LLM)  
-**💅 Working on:** Generative AI Project  
-**💬 Ping me about:** design, development, and design thinking
+⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`  
+🌍 I'm mostly active on Linkedin
+💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)  
+💅 Working on: Machine learning project
+💬 Ping me about: design, development, and design thinking
 
 **💼 Interning in Strategy Operations at Chamberly AB**
 
