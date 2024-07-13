@@ -2,7 +2,7 @@
 
 A Student by day ☼ and a Developer by night ☾
 
-Computer Science and Engineering student **[@Lovely Professional University](https://www.lpu.in/)**
+Computer Science and Engineering student **[@Lovely Professional University](https://www.lpu.in/)**;
 *Specialising in AI and Data Engineering*
 Strategy Operations Intern **[@Chamberly AB](https://www.linkedin.com/company/chamberlyapp/)** 
 
