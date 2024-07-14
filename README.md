@@ -1,4 +1,4 @@
-# Hello there ![waving-hand](https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb)
+# Hello there <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" alt="waving hand" width="30" height="30" />
 
 A Student by day ☼ and a Developer by night ☾
 
