@@ -2,9 +2,9 @@
 
 A Student by day ☼ and a Developer by night ☾
 
-Computer Science and Engineering student @[Lovely Professional University](https://www.lpu.in/)<br>
+Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)<br>
 Specializing in AI and Data Engineering through a trainee program by [Futurense Technologies](https://www.linkedin.com/company/futurense-technologies/mycompany/)<br>
-Strategy Operations Intern @[Chamberly AB](https://www.linkedin.com/company/chamberlyapp/)
+Strategy Operations Intern [@Chamberly AB](https://www.linkedin.com/company/chamberlyapp/)
 
 - ⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`  
 - 💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)  
