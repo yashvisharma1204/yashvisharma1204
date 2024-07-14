@@ -1,4 +1,4 @@
-# Hello there 👋  
+# Hello there ![waving-hand](https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb)
 
 A Student by day ☼ and a Developer by night ☾
 
