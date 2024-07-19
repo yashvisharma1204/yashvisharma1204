@@ -1,7 +1,7 @@
 # Hello there <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" alt="waving hand" width="40" height="40" />
-<img src="https://github.com/user-attachments/assets/c9da567e-02cd-4363-b8f5-d20cfc65beb6" width=1000>
-
 A Student by day ☼ and a Developer by night ☾
+
+<img src="https://github.com/user-attachments/assets/c9da567e-02cd-4363-b8f5-d20cfc65beb6" width=1000>
 
 Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)<br>
 Specializing in AI and Data Engineering through a trainee program by [Futurense Technologies](https://www.linkedin.com/company/futurense-technologies/mycompany/)<br>
