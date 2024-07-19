@@ -1,4 +1,5 @@
 # Hello there <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" alt="waving hand" width="40" height="40" />
+![c6a82afb6333a97d86cb376208715abb](https://github.com/user-attachments/assets/c9da567e-02cd-4363-b8f5-d20cfc65beb6)
 
 A Student by day ☼ and a Developer by night ☾
 
