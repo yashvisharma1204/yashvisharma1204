@@ -4,6 +4,7 @@ A Student by day ☼ and a Developer by night ☾
 <img src="https://github.com/user-attachments/assets/c9da567e-02cd-4363-b8f5-d20cfc65beb6" width=1000>
 
 <br>
+
 Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)<br>
 Specializing in AI and Data Engineering through a trainee program by [Futurense Technologies](https://www.linkedin.com/company/futurense-technologies/mycompany/)<br>
 Strategy Operations Intern [@Chamberly AB](https://www.linkedin.com/company/chamberlyapp/)
