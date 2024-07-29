@@ -4,10 +4,9 @@ A Student by day ☼ and a Developer by night ☾
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
 
 Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)<br>
-<i text-color='blue'>Specializing in AI and Data Engineering</i>
+<i>Specializing in AI and Data Engineering</i>
 
-SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com)
-
+SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com)👑
 
 - ⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`
 - 💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)
