@@ -3,7 +3,6 @@ A Student by day ☼ and a Developer by night ☾
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
 <img src="https://github.com/user-attachments/assets/c9da567e-02cd-4363-b8f5-d20cfc65beb6" width=1000>
 
-<br>
 
 Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)<br>
 Specializing in AI and Data Engineering through a trainee program by [Futurense Technologies](https://www.linkedin.com/company/futurense-technologies/mycompany/)<br>
