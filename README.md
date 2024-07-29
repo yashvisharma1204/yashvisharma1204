@@ -15,6 +15,6 @@ SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com) 👑
 - 💬 Ping me about: design, development, and collaboration
 - 📚 Currently learning: React.js and Next.js
 
-🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](#).
+🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 
 Looking forward to connecting with you all!
