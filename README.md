@@ -16,5 +16,5 @@ SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com) 👑
 - 📚 Currently learning: React.js and Next.js
 
 🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
-![](https://media1.giphy.com/media/5xRW2cUKfcyQg/giphy.gif?cid=6c09b9525urkvvv6oxo17bc5o4s4v1o2lqo8umhvhwfd8je0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
+![](https://media1.giphy.com/media/5xRW2cUKfcyQg/giphy.gif?cid=6c09b9525urkvvv6oxo17bc5o4s4v1o2lqo8umhvhwfd8je0&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)<br>
 Looking forward to connecting with you all!
