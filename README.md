@@ -16,6 +16,5 @@ SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com) 👑
 🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
 
-#30NitesOfCode: [Check out my progress!](https://www.codedex.io/@yashvishar67751/30-nites-of-code)  
-  ![@yashvishar67751 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=yashvishar67751)
+
 
