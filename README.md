@@ -17,3 +17,5 @@ SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com) 👑
 Looking forward to connecting with you all!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashvisharma1204&theme=dark&utcOffset=8)
