@@ -16,6 +16,3 @@ SWE Fellow [@HeadstarterAI](http://app.theheadstarter.com) 👑
 🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
 
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/yashvisharma1204?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
