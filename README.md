@@ -1,51 +1,22 @@
-<!-- Header with Fairy-core Vibes -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20<Your Name>%20✨&fontSize=40&fontAlignY=35&fontColor=white" />
-</p>
+ # Hello there <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" />
+A Student by day ☼ and a Developer by night ☾
 
-<!-- A cute and simple greeting with sparkles -->
-<h3 align="center">🌸 Dreaming in Code & Crafting Magic 🌸</h3>
-<p align="center">
-  I build things that work, sparkle, and make me smile!  
-  Exploring tech, learning, and coding one keystroke at a time. 🌟  
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
 
----
+Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)
+<br> Specializing in AI and Data Engineering 👑
 
-### 🧚‍♀️ **A Peek into My Projects**
-- ✨ **Machine Learning:** Predicting Wine Quality  
-- 🛠️ **OS Lab Project:** CPU Burst Time Prediction using Parallel Processing  
-- 💻 **Linux Terminal Simulation:** Creating a minimal command-line interface project  
 
----
+⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`
+💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)
+💅 Working on: Machine learning projects
+🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)
+💬 Ping me about: design, development, and collaboration
+📚 Currently learning: React.js and Next.js
 
-### 🌷 **Little Facts About Me**  
-- 🎓 CS Student at **Lovely Professional University**  
-- 💖 I keep a tech diary to organize goals and projects  
-- 🌱 Currently diving into **multiprocessing & machine learning**  
-- 🍵 Hobbies include writing, designing, and adding flair to my code
+🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
+Looking forward to connecting with you all!
 
----
-
-### 🎨 **Some Fun Visuals!**
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Building+dreamy+tech+projects;Bringing+fairy+core+to+my+code+%E2%9C%A8;Sprinkling+joy+with+every+bug+I+fix" />
-</p>
-
----
-
-### 💌 **Stay in Touch**  
-<p align="center">
-  Find me on <a href="https://github.com/<your-username>">GitHub</a> ✨ or send me a message!  
-  I’d love to connect with fellow coders and creators 🌸
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashvisharma1204&theme=dark&utcOffset=8)
