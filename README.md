@@ -1,71 +1,51 @@
-<!-- Animated Header with Pastel Theme -->
+<!-- Header with Fairy-core Vibes -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Hello,%20I'm%20<Your Name>!%20💖&fontSize=35&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20<Your Name>%20✨&fontSize=40&fontAlignY=35&fontColor=white" />
 </p>
 
-<!-- Fun Introduction with Emoji -->
-<h3 align="center">🌸 Welcome to my Tech Wonderland! 🌸</h3>
-<p align="center">I love coding, learning new tech, and adding a sprinkle of fun to every project ✨</p>
-
----
-
-### 🍭 **Tech Stack I'm Sweet On**
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-E75480?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-DB7093?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
----
-
-### 🌸 **My Coding Vibes**  
+<!-- A cute and simple greeting with sparkles -->
+<h3 align="center">🌸 Dreaming in Code & Crafting Magic 🌸</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=FF69B4&width=500&lines=CS+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Loving+Parallel+Processing;Building+Cool+Terminal+Stuff;Sprinkling+Glitter+on+Code+%F0%9F%8C%9F" />
+  I build things that work, sparkle, and make me smile!  
+  Exploring tech, learning, and coding one keystroke at a time. 🌟  
 </p>
 
 ---
 
-### 💖 **GitHub Bento Box: Stats & Streaks**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=omni&hide_border=true&icon_color=FF69B4" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=omni&hide_border=true&fire=FF69B4" height="180px" />
-</div>
+### 🧚‍♀️ **A Peek into My Projects**
+- ✨ **Machine Learning:** Predicting Wine Quality  
+- 🛠️ **OS Lab Project:** CPU Burst Time Prediction using Parallel Processing  
+- 💻 **Linux Terminal Simulation:** Creating a minimal command-line interface project  
 
 ---
 
-### 🍓 **A Peek into My Work**  
-- 🌟 **Machine Learning Project:** Wine Quality Prediction  
-- 🛠️ **OS Lab Project:** Predicting CPU Burst Time using **Parallel Processing**  
-- 🎮 **Creative Project:** Simulating a **Linux Terminal Interface**
+### 🌷 **Little Facts About Me**  
+- 🎓 CS Student at **Lovely Professional University**  
+- 💖 I keep a tech diary to organize goals and projects  
+- 🌱 Currently diving into **multiprocessing & machine learning**  
+- 🍵 Hobbies include writing, designing, and adding flair to my code
 
 ---
 
-### 🌺 **Where to Find Me**  
+### 🎨 **Some Fun Visuals!**
 <p align="center">
-  <a href="https://github.com/<your-username>">
-    <img src="https://img.shields.io/badge/-GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/<your-username>">
-    <img src="https://img.shields.io/badge/-LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/<your-username>">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://your-blog-or-website.com">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6347?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Building+dreamy+tech+projects;Bringing+fairy+core+to+my+code+%E2%9C%A8;Sprinkling+joy+with+every+bug+I+fix" />
 </p>
 
 ---
 
-### 🎉 **Fun Fact**  
+### 💌 **Stay in Touch**  
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="200" />
+  Find me on <a href="https://github.com/<your-username>">GitHub</a> ✨ or send me a message!  
+  I’d love to connect with fellow coders and creators 🌸
 </p>
 
-<p align="center">✨ Bringing joy to tech, one line of code at a time ✨</p>
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=footer" />
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
