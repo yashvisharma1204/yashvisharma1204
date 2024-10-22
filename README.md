@@ -1,75 +1,23 @@
-<!-- Welcome Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Welcome%20Adventurer!%20💖&fontSize=40&fontAlignY=35&fontColor=white" />
-</p>
+ # Hello there <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" />
+A Student by day ☼ and a Developer by night ☾
 
-### 🌸 Level 1: Introduction
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="yashvisharma1204" /> </p>
 
-🧚‍♀️ **Name:** <Your Name>  
-🔮 **Class:** Coder / Explorer of Parallel Universes  
-🎯 **Current Goal:** Mastering **Machine Learning** and **Parallel Processing**  
+Computer Science and Engineering student [@Lovely Professional University](https://www.lpu.in/)
+<br> Specializing in AI and Data Engineering 👑
 
----
 
-### 🌼 Quests in Progress
+- ⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`
+- 💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)
+- 💅 Working on: Machine learning projects
+- 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)
+- 💬 Ping me about: design, development, and collaboration
+- 📚 Currently learning: React.js and Next.js
 
-1. **✨ Quest:** Predict Wine Quality Using Machine Learning  
-   - **Status:** 🟢 *In Progress*  
-   - **Objective:** Optimize model with RandomForest and joblib  
-   - **Reward:** +100 XP in Model Tuning 🎉  
+🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
+Looking forward to connecting with you all!
 
-2. **🛠️ Quest:** Simulate a Linux Terminal Interface  
-   - **Status:** 🔵 *Just Started*  
-   - **Objective:** Implement basic command-line tools  
-   - **Reward:** +80 XP in OS Skills 🌟  
-
-3. **📊 Quest:** Predict CPU Burst Time with Parallel Processing  
-   - **Status:** 🟡 *Almost Done*  
-   - **Objective:** Integrate multiprocessing to speed up model training  
-   - **Reward:** +120 XP in Process Optimization 🚀  
-
----
-
-### 🌟 Achievements Unlocked
-
-🏅 **First ML Model Deployed!** (Wine Quality Prediction)  
-✨ **Bug Slayer:** Found and fixed 10+ bugs in one session  
-🎨 **Terminal Wizard:** Completed a command-line interface with custom commands  
-💻 **Night Owl Coder:** Committed code at 3 AM  
-
----
-
-### 🎯 Skill Tree Progress
-
-- **Python:** ██████░░░░ 60%  
-- **Parallel Processing:** ████░░░░░░ 40%  
-- **Machine Learning:** █████░░░░░░ 50%  
-- **Operating Systems:** ██████░░░░ 60%  
-
----
-
-### 🧚‍♀️ Daily Challenges
-
-🛡️ **Challenge:** Fix one tricky bug  
-⏲️ **Challenge:** Complete at least 2 Pomodoro coding sessions today  
-🌸 **Challenge:** Write in your tech diary about today’s coding journey  
-
----
-
-### 📈 Level Up Your Profile!
-
-- **Level Progress:**  
-  - Current XP: **350 XP**  
-  - XP Needed for Next Level: **500 XP**  
-  - Rewards for Next Level: *Cute profile GIFs and a custom Linux script* 🌟
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohc0RR3G4uP9bLw3O/giphy.gif" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=footer" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashvisharma1204&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashvisharma1204&theme=dark&utcOffset=8)
 
