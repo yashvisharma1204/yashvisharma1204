@@ -13,7 +13,7 @@ Computer Science and Engineering student [@Lovely Professional University](https
 - 💬 Ping me about: design, development, and collaboration
 - 📚 Currently learning: `React.js` and `Next.js`
 
-🚀 Check out my [Blog](#), [YouTube](https://www.youtube.com/@yashvisharma1204), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
+🚀 Check out my [Blog](https://blog95319.wordpress.com/), [YouTube](https://www.youtube.com/@yashvisharma1204), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashvisharma1204&theme=dark)
