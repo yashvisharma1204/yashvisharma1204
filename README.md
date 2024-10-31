@@ -8,11 +8,11 @@ Computer Science and Engineering student [@Lovely Professional University](https
 
 
 - ⚙️ I use daily: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`
-- 💡 Passions: Machine Learning, NLP, Generative AI, Large Language Models (LLM)
+- 💡 Passions: `Machine Learning`, `NLP`, `Generative AI`, `Large Language Models (LLM)`
 - 💅 Working on: Machine learning projects
 - 🌍 I'm mostly active on [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)
 - 💬 Ping me about: design, development, and collaboration
-- 📚 Currently learning: React.js and Next.js
+- 📚 Currently learning: `React.js` and `Next.js`
 
 🚀 Check out my [Blog](#), [YouTube](#), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
