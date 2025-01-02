@@ -1,0 +1,31 @@
+name: Generate Full Year Commit Calendar
+
+on:
+  push:
+    branches:
+      - main  # This triggers the workflow when changes are pushed to the main branch.
+  pull_request:
+    branches:
+      - main  # This triggers the workflow when a pull request is made to the main branch.
+
+jobs:
+  generate-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Commit Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}  # Make sure to add a GitHub token in the secrets section.
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+      - name: Upload Commit Calendar Image
+        uses: actions/upload-artifact@v3
+        with:
+          name: full-year-commit-calendar
+          path: metrics.plugin.isocalendar.fullyear.svg
