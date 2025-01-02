@@ -15,10 +15,7 @@ My datafolio: [@datawithyashvi](https://github.com/datawithyashvi)
 
 🚀 Check out my [Blog](https://blog95319.wordpress.com/), [YouTube](https://www.youtube.com/@yashvisharma1204), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
-
-
-[![Yashvi's GitHub stats](https://gh-stats-card.vercel.app/api/yashvisharma1204)](https://github.com/yashvisharma1204)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-night-green.svgg">
 </picture>
