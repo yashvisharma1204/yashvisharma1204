@@ -17,5 +17,5 @@ My datafolio: [@datawithyashvi](https://github.com/datawithyashvi)
 Looking forward to connecting with you all!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-night-green.svgg">
+  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-night-green.svg">
 </picture>
