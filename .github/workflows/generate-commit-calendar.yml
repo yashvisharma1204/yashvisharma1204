@@ -24,6 +24,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
+          
       - name: Upload Commit Calendar Image
         uses: actions/upload-artifact@v3
         with:
