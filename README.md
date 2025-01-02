@@ -20,6 +20,5 @@ Looking forward to connecting with you all!
 [![Yashvi's GitHub stats](https://gh-stats-card.vercel.app/api/yashvisharma1204)](https://github.com/yashvisharma1204)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg">
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
