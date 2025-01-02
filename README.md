@@ -16,9 +16,5 @@ My datafolio: [@datawithyashvi](https://github.com/datawithyashvi)
 🚀 Check out my [Blog](https://blog95319.wordpress.com/), [YouTube](https://www.youtube.com/@yashvisharma1204), and [Portfolio](https://portfolio-three-wheat-21.vercel.app).
 Looking forward to connecting with you all!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashvisharma1204&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashvisharma1204&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashvisharma1204&theme=dark&utcOffset=8)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=yashvisharma1204&hide_contributor_rank=false&limit=5&theme=dark)
 [![Jovan's GitHub stats](https://gh-stats-card.vercel.app/api/yashvisharma1204)](https://github.com/jxmked)
