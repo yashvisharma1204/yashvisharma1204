@@ -17,4 +17,4 @@ My datafolio: [@datawithyashvi](https://github.com/datawithyashvi)
 Looking forward to connecting with you all!
 
 
-[![Jovan's GitHub stats](https://gh-stats-card.vercel.app/api/yashvisharma1204)](https://github.com/jxmked)
+[![Yashvi's GitHub stats](https://gh-stats-card.vercel.app/api/yashvisharma1204)](https://github.com/yashvisharma1204)
