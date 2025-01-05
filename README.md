@@ -5,13 +5,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
 ## 🎓 About Me
 
 - **Student**: Computer Science and Engineering (Specializing in AI and Data Engineering) 👑  
-- **Portfolio**: [@datawithyashvi](https://github.com/datawithyashvi)  
+- **Portfolio**: [Data Portfolio](https://datascienceportfol.io/yashvisharma)
 - **Skills I Use Daily**: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`  
 - **Passions**:  
   - `Machine Learning`  
@@ -25,7 +22,6 @@
   - 🖋️ [Blog](https://blog95319.wordpress.com/)  
   - 📺 [YouTube](https://www.youtube.com/@yashvisharma1204)  
   - 💼 [Portfolio](https://portfolio-three-wheat-21.vercel.app)
-
 ---
 
 ## 🏆 Contributions
