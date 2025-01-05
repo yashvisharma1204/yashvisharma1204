@@ -19,3 +19,5 @@ Looking forward to connecting with you all!
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-night-green.svg">
 </picture>
+
+![](assets/metrics.plugin.notable.contributions.svg)
