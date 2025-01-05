@@ -21,3 +21,5 @@ Looking forward to connecting with you all!
 </picture>
 
 ![](assets/metrics.plugin.notable.contributions.svg)
+![](assets/metrics.plugin.notable.leetcode.svg)
+![](assets/metrics.plugin.notable.achievments.svg)
