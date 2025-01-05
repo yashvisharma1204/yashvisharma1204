@@ -21,5 +21,5 @@ Looking forward to connecting with you all!
 </picture>
 
 ![](assets/metrics.plugin.notable.contributions.svg)
-
+<a href="https://gitroll.io/profile/uymtJlbqD1zNFjwecURN6NZVjmj13" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uymtJlbqD1zNFjwecURN6NZVjmj13?theme=dark" alt="GitRoll Profile Badge"/></a>
 ![](assets/metrics.plugin.achievements.svg)
