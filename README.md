@@ -43,15 +43,6 @@
 
 ### Achievements
 <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
-
----
-
-## 🎖️ Badges
-
-<a href="https://gitroll.io/profile/uymtJlbqD1zNFjwecURN6NZVjmj13" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uymtJlbqD1zNFjwecURN6NZVjmj13?theme=dark" alt="GitRoll Profile Badge" />
-</a>
-
 ---
 
 ## 🚀 Stay Connected
