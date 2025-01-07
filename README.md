@@ -23,6 +23,7 @@
   - 🖋️ [Blog](https://blog95319.wordpress.com/)  
   - 📺 [YouTube](https://www.youtube.com/@yashvisharma1204)  
   - 💼 [Portfolio](https://portfolio-three-wheat-21.vercel.app)
+
 ---
 
 ## 🏆 Contributions
@@ -43,6 +44,7 @@
 
 ### Achievements
 <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
+
 ---
 
 ## 🚀 Stay Connected
