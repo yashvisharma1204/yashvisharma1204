@@ -12,7 +12,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: assets/metrics.plugin.default.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
 
@@ -20,4 +20,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: metrics
-          path: metrics.svg
+          path: assets/metrics.plugin.default.svg
