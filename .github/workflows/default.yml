@@ -1,9 +1,9 @@
 name: Default metrics
 
 on:
-  workflow_dispatch: # Triggers the workflow manually
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -12,6 +12,12 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.base.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+
+      - name: Upload metrics
+        uses: actions/upload-artifact@v3
+        with:
+          name: metrics
+          path: metrics.svg
