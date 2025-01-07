@@ -1,0 +1,17 @@
+name: Default metrics
+
+on:
+  workflow_dispatch: # Triggers the workflow manually
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
