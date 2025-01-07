@@ -39,7 +39,6 @@
 
 ### Notable Contributions
 <img src="assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" />
-<img src="assets/metrics.plugin.default.svg" alt="Notable Contributions" />
 
 ---
 
