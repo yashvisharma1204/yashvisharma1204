@@ -40,6 +40,7 @@
 ### Notable Contributions
 <img src="assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" />
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=yashvisharma1204)
 ---
 
 ### Achievements
