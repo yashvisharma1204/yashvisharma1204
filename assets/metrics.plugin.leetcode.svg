@@ -65,8 +65,8 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x20</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x13</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x10</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x8</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x11</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x9</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x8</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x7</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x6</span></div>
