@@ -1,6 +1,6 @@
 name: GitHub-Profile-3D-Contrib
 on:
-  # Schedule updates (At minute 0 past every 12th hour)
+  # Schedule updates (At  0 past every 12th hour)
   schedule: [{ cron: "0 */12 * * *" }]
   # Lines below let you run workflow manually with each commit
   workflow_dispatch:
