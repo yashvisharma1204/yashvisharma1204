@@ -69,10 +69,20 @@ def get_stats() -> pd.DataFrame:
     }
     '''
     x = requests.post(LEETCODE_URL, json={"query": query, "variables": variables})
-    skills = json.loads(x.text)["data"]["matchedUser"]["tagProblemCounts"]
+    data = json.loads(x.text)["data"]["matchedUser"]["tagProblemCounts"]
+    
     skill_frame = pd.DataFrame(columns=["skill", "count", "difficulty"])
 
+    for difficulty in DIFFICULTY:
+        for entry in data[difficulty]:
+            skill_frame = skill_frame.append({
+                "skill": entry["tagName"],
+                "count": entry["problemsSolved"],
+                "difficulty": difficulty
+            }, ignore_index=True)
+
     return skill_frame.sort_values(by=["count"], ascending=False).reset_index(drop=True)
+
 
 '''
 create and format an ascii graph of the top five skills, making sure the
