@@ -11,11 +11,7 @@
 - **Student**: Computer Science and Engineering (Specializing in AI and Data Engineering) 👑  
 - **Portfolio**: [Data Portfolio](https://datascienceportfol.io/yashvisharma)
 - **Skills I Use Daily**: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`  
-- **Passions**:  
-  - `Machine Learning`  
-  - `Data Engineering`  
-  - `Generative AI`  
-  - `Large Language Models (LLM)`  
+- **Passions**: `Machine Learning`, `Data Engineering`,`Large Language Models (LLM)`  
 - **Currently Learning**: `Java`, `Rust`  
 - **Working On**: Machine learning projects  
 - **Reach Out To Me**:  
