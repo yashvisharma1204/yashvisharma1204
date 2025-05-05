@@ -1,4 +1,5 @@
 PyGithub==1.58.2
-pandas==2.0.1
+numpy==1.24.4 
+pandas==1.5.3
 requests==2.32.2
 requests==2.32.2
