@@ -25,5 +25,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
           LEETCODE_USERNAME: ${{ secrets.LEETCODE_USERNAME }}
-          IGNORED_SKILLS: ${{ vars.IGNORED_SKILLS }}
-          HIDE_DIFFICULTY: ${{ vars.HIDE_DIFFICULTY }}
