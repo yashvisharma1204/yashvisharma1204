@@ -13,16 +13,16 @@
 - **Skills I Use Daily**: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`  
 - **Passions**:  
   - `Machine Learning`  
-  - `NLP`  
+  - `Data Engineering`  
   - `Generative AI`  
   - `Large Language Models (LLM)`  
-- **Currently Learning**: `React.js`, `Next.js`  
+- **Currently Learning**: `Java`, `Rust`  
 - **Working On**: Machine learning projects  
 - **Reach Out To Me**:  
   - 🌍 [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)  
   - 🖋️ [Blog](https://blog95319.wordpress.com/)  
   - 📺 [YouTube](https://www.youtube.com/@yashvisharma1204)  
-  - 💼 [Portfolio](https://portfolio-three-wheat-21.vercel.app)
+  - 💼 [Portfolio](https://bento.me/yashvisharma)
 
 ## 🚀 Stay Connected
 
