@@ -1,10 +1,12 @@
 name: Update gist with top leetcode skills
+
 on:
   push:
     branches:
       - main
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   update-gist:
     runs-on: ubuntu-latest
@@ -16,10 +18,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install compatible dependencies
+        run: |
+          pip install --upgrade pip
+          pip uninstall -y numpy pandas || true
+          pip install numpy==1.24.4 pandas==1.5.3
+          pip install -r requirements.txt
 
-      - name: update gist
+      - name: Update gist
         run: python main.py
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
