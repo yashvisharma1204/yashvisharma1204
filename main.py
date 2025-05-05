@@ -72,10 +72,6 @@ def get_stats() -> pd.DataFrame:
     skills = json.loads(x.text)["data"]["matchedUser"]["tagProblemCounts"]
     skill_frame = pd.DataFrame(columns=["skill", "count", "difficulty"])
 
-    for difficulty in (x for x in skills if x not in ignored):
-        for skill in (x for x in skills[difficulty] if x["tagName"] not in ignored):
-            skill_frame.loc[len(skill_frame)] = [skill["tagName"], skill["problemsSolved"], difficulty.capitalize()]
-
     return skill_frame.sort_values(by=["count"], ascending=False).reset_index(drop=True)
 
 '''
