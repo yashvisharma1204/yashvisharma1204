@@ -6,8 +6,6 @@ from github import Github
 from github.InputFileContent import InputFileContent
 
 ENV_LEETCODE_USERNAME = "LEETCODE_USERNAME"
-ENV_IGNORED_SKILLS = "IGNORED_SKILLS"
-ENV_HIDE_DIFFICULTY = "HIDE_DIFFICULTY"
 # these variables should be set as secrets in the repository!
 ENV_GH_TOKEN = "GH_TOKEN" # token with gist scope enabled
 ENV_GIST_ID = "GIST_ID" # id part of gist url
@@ -74,9 +72,6 @@ def get_stats() -> pd.DataFrame:
     skills = json.loads(x.text)["data"]["matchedUser"]["tagProblemCounts"]
     skill_frame = pd.DataFrame(columns=["skill", "count", "difficulty"])
 
-    ignored = [x.strip() for x in os.environ[ENV_IGNORED_SKILLS].split(',') if x]
-    ignored = [x.lower() if x.lower() in DIFFICULTY else x.title() for x in ignored]
-
     for difficulty in (x for x in skills if x not in ignored):
         for skill in (x for x in skills[difficulty] if x["tagName"] not in ignored):
             skill_frame.loc[len(skill_frame)] = [skill["tagName"], skill["problemsSolved"], difficulty.capitalize()]
@@ -93,9 +88,6 @@ def create_graph(df: pd.DataFrame) -> str:
     bar_len = 46 - (max_str + max_digit + 4)
 
     df["pct"] = df["count"] / df["count"].max() * bar_len
-
-    if os.environ[ENV_HIDE_DIFFICULTY].lower() in ('true', '1', 't'):
-        df["difficulty"] = ""
 
     f = "{0:<%d} ({1:>%d}) {2}{3} {4}\n" % (max_str, max_digit)
 
