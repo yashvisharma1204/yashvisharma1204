@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade pip
           pip uninstall -y numpy pandas || true
           pip install numpy==1.24.4 pandas==1.5.3
-          pip install -r requirements.txt
+          pip install -r yashvisharma1204/requirements.txt
 
       - name: Update gist
         run: python main.py
