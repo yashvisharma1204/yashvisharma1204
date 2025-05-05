@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yashvi%20Sharma"/>
-</p>
 # Hello there! <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" />
 
 **A Student by day ☼ and a Developer by night ☾**
