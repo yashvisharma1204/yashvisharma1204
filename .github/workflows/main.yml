@@ -1,4 +1,5 @@
 name: Update gist with top leetcode skills
+
 on:
   push:
     branches:
