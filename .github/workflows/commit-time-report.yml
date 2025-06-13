@@ -10,9 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout full repo history
         uses: actions/checkout@v4
-
+        with:
+           fetch-depth: 0
+      - name: Get commit timestamps from 2023 to now
+        run: git log --since="2023-01-01" --pretty=format:"%an %aI" > commits.txt
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
