@@ -21,14 +21,12 @@
   - 💼 [Portfolio](https://bento.me/yashvisharma)
 
 
-<!--START:ZEN_GARDEN-->
-<!--END:ZEN_GARDEN-->
-
-
 ## 🚀 Stay Connected
 
 - 🌟 Let's collaborate on exciting projects and ideas!  
 - Check out my repositories and feel free to drop me a message.
+<!--START:ZEN_GARDEN-->
+<!--END:ZEN_GARDEN-->
   
 
        ⛰️           ⛰️          ⛰️ 🪨    🌾🪨 
