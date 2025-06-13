@@ -42,7 +42,6 @@ jobs:
           echo "    full = int(percent // 4)" >> generate_report.py
           echo "    return '█' * full + '░' * (25 - full)" >> generate_report.py
           echo "with open('report.md', 'w') as out:" >> generate_report.py
-          echo "    out.write('## ⏰ Commit Time Distribution\\n\\n')" >> generate_report.py
           echo "    for label, count in counts.items():" >> generate_report.py
           echo "        pct = (count / total) * 100" >> generate_report.py
           echo "        out.write(f'{label:<13} {count:3} commits  {bar(pct)}  {pct:.1f}%\\n')" >> generate_report.py
