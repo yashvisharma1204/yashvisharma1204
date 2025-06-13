@@ -54,6 +54,6 @@ jobs:
         uses: exuanbo/actions-deploy-gist@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
-          gist_id: https://gist.github.com/yashvisharma1204/3c520cc86a0d6fe81a30017559d198ed
+          gist_id: 3c520cc86a0d6fe81a30017559d198ed
           gist_file_name: Contribution.md
           file_path: report.md
