@@ -47,7 +47,7 @@ jobs:
           echo "with open('report.md', 'w') as out:" >> generate_report.py
           echo "    for label, count in counts.items():" >> generate_report.py
           echo "        pct = (count / total) * 100" >> generate_report.py
-          echo "        out.write(f'{label:<13} {count:3} commits  {bar(pct)}  {pct:.1f}%\\n')" >> generate_report.py
+          echo "        out.write(f'{label:<13} {count:3} commits  {bar(pct)}{pct:.1f}%\\n')" >> generate_report.py
 
       - name: Run Python script to generate report
         run: python3 generate_report.py
