@@ -55,7 +55,7 @@ EOF
       - name: Create or Update Gist
         uses: andymckay/gh-gist@v1
         with:
-          token: Gists
+          token: ${{ secrets.GH_TOKEN }}
           gist_id: https://gist.github.com/yashvisharma1204/3c520cc86a0d6fe81a30017559d198ed
           file_name: Contribution.md
           file_path: report.md
