@@ -1,6 +1,6 @@
 import random
 rows = 10
-cols = 40
+cols = 80
 
 elements = ['🌱', '🪨', '🌾', '🍃', '⛰️']
 density = 0.1  
