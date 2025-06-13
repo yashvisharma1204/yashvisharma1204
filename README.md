@@ -21,9 +21,9 @@
   - 💼 [Portfolio](https://bento.me/yashvisharma)
 
 
-<!--START:WORDCLOUD-->
-![Word Cloud](wordcloud.png)
-<!--END:WORDCLOUD-->
+<!--START:ZEN_GARDEN-->
+<!-- Zen garden will be inserted here -->
+<!--END:ZEN_GARDEN-->
 
 
 ## 🚀 Stay Connected
