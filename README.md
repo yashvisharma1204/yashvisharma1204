@@ -31,7 +31,7 @@
 <!--START:ZEN_GARDEN-->
 <!--END:ZEN_GARDEN-->
   
-
+```
        ⛰️           ⛰️          ⛰️ 🪨    🌾🪨 
 🪨                                       
        🍃🌾 🌾        🌱        ⛰️🌱       🪨  
@@ -42,6 +42,7 @@
                                    🌱   🌾
         🌾     🍃 ⛰️    🪨     🪨      🌱     
   ⛰️  🌾                 🍃               🍃
+```
 
 “Code in harmony.”
 <!--END:ZEN_GARDEN-->
