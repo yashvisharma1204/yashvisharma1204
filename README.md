@@ -22,7 +22,6 @@
 
 
 <!--START:ZEN_GARDEN-->
-<!-- Zen garden will be inserted here -->
 <!--END:ZEN_GARDEN-->
 
 
@@ -30,3 +29,10 @@
 
 - 🌟 Let's collaborate on exciting projects and ideas!  
 - Check out my repositories and feel free to drop me a message.
+🪨⛰️🍃🪨⛰️🪨 🌾🌱🌱⛰️⛰️🪨🌱⛰️🪨🌱🌾 🪨🍃⛰️⛰️🍃⛰️🌾🌱🪨🌾 🪨🌾🌱🌾🌾🪨⛰️ 🪨🌾
+ ⛰️🍃🪨🌱🍃🌱⛰️🌾🍃⛰️ 🌾⛰️⛰️🪨🌱🌾🌱🍃🍃⛰️🌱⛰️ 🪨⛰️🌾🪨🌾🪨🍃🌾🪨🪨⛰️🌾⛰️🌱🪨
+🌱🪨 🪨🪨🪨🌱⛰️🍃 🌱 🌾 🪨⛰️ 🌾⛰️🍃⛰️🪨🌱🪨⛰️🪨🪨 🌱🪨🍃 🍃🍃⛰️🌱🌱 🌱 
+🌱⛰️ 🌾🌾⛰️🌱🍃🪨 🌱🪨 ⛰️ ⛰️🍃 ⛰️ ⛰️⛰️🍃🍃🌱🌱🌾 ⛰️⛰️🌾⛰️🌾⛰️ 🌾🌱🌱🪨🌱
+
+“Breathe in calm. Breathe out stress.”
+<!--END:ZEN_GARDEN-->
