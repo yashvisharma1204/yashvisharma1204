@@ -1,11 +1,10 @@
 import random
+rows = 10
+cols = 40
 
-# Zen elements
-rows = 4
-width = 40
-elements = ['🌱', '🪨', '🌾', '🍃', '⛰️', ' ']
+elements = ['🌱', '🪨', '🌾', '🍃', '⛰️']
+density = 0.1  
 
-# Zen quotes
 quotes = [
     "Breathe in calm. Breathe out stress.",
     "Stillness speaks volumes.",
@@ -15,12 +14,15 @@ quotes = [
     "Grow slow, grow steady."
 ]
 
-garden = []
-for _ in range(rows):
-    line = ''.join(random.choice(elements) for _ in range(width))
-    garden.append(line)
+garden = [[' ' for _ in range(cols)] for _ in range(rows)]
+
+num_items = int(rows * cols * density)
+for _ in range(num_items):
+    r = random.randint(0, rows - 1)
+    c = random.randint(0, cols - 1)
+    garden[r][c] = random.choice(elements)
 
 with open("zen_garden.txt", "w") as f:
-    for line in garden:
-        f.write(line + "\n")
+    for row in garden:
+        f.write("".join(row) + "\n")
     f.write(f"\n“{random.choice(quotes)}”\n")
