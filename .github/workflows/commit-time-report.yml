@@ -18,39 +18,37 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Get Commit Times
+      - name: Get commit timestamps
+        run: git log --pretty=format:"%an %aI" > commits.txt
+
+      - name: Write report script
         run: |
-          git log --pretty=format:"%an %aI" > commits.txt
+          echo "import datetime" > generate_report.py
+          echo "with open('commits.txt') as f:" >> generate_report.py
+          echo "    times = [line.strip().split()[-1] for line in f.readlines()]" >> generate_report.py
+          echo "counts = {\"🌞 Morning\": 0, \"🌆 Daytime\": 0, \"🌃 Evening\": 0, \"🌙 Night\": 0}" >> generate_report.py
+          echo "total = len(times)" >> generate_report.py
+          echo "for t in times:" >> generate_report.py
+          echo "    hour = datetime.datetime.fromisoformat(t).hour" >> generate_report.py
+          echo "    if 5 <= hour < 12:" >> generate_report.py
+          echo "        counts[\"🌞 Morning\"] += 1" >> generate_report.py
+          echo "    elif 12 <= hour < 17:" >> generate_report.py
+          echo "        counts[\"🌆 Daytime\"] += 1" >> generate_report.py
+          echo "    elif 17 <= hour < 21:" >> generate_report.py
+          echo "        counts[\"🌃 Evening\"] += 1" >> generate_report.py
+          echo "    else:" >> generate_report.py
+          echo "        counts[\"🌙 Night\"] += 1" >> generate_report.py
+          echo "def bar(percent):" >> generate_report.py
+          echo "    full = int(percent // 4)" >> generate_report.py
+          echo "    return '█' * full + '░' * (25 - full)" >> generate_report.py
+          echo "with open('report.md', 'w') as out:" >> generate_report.py
+          echo "    out.write('## ⏰ Commit Time Distribution\\n\\n')" >> generate_report.py
+          echo "    for label, count in counts.items():" >> generate_report.py
+          echo "        pct = (count / total) * 100" >> generate_report.py
+          echo "        out.write(f'{label:<13} {count:3} commits  {bar(pct)}  {pct:.1f}%\\n')" >> generate_report.py
 
-          python3 <<EOF > report.md
-import datetime
-
-with open('commits.txt') as f:
-    times = [line.strip().split()[-1] for line in f.readlines()]
-
-counts = {"🌞 Morning": 0, "🌆 Daytime": 0, "🌃 Evening": 0, "🌙 Night": 0}
-total = len(times)
-
-for t in times:
-    hour = datetime.datetime.fromisoformat(t).hour
-    if 5 <= hour < 12:
-        counts["🌞 Morning"] += 1
-    elif 12 <= hour < 17:
-        counts["🌆 Daytime"] += 1
-    elif 17 <= hour < 21:
-        counts["🌃 Evening"] += 1
-    else:
-        counts["🌙 Night"] += 1
-
-def bar(percent):
-    full = int(percent // 4)
-    return '█' * full + '░' * (25 - full)
-
-print("## ⏰ Commit Time Distribution\\n")
-for label, count in counts.items():
-    pct = (count / total) * 100
-    print(f"{label:<13} {count:3} commits  {bar(pct)}  {pct:.1f}%")
-EOF
+      - name: Run Python script to generate report
+        run: python3 generate_report.py
 
       - name: Create or Update Gist
         uses: andymckay/gh-gist@v1
