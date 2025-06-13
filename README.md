@@ -30,3 +30,16 @@
 - 🌟 Let's collaborate on exciting projects and ideas!  
 - Check out my repositories and feel free to drop me a message.
 
+       ⛰️           ⛰️          ⛰️ 🪨    🌾🪨 
+🪨                                       
+       🍃🌾 🌾        🌱        ⛰️🌱       🪨  
+ 🪨   🍃⛰️     🪨                           
+    ⛰️              ⛰️    ⛰️     🌱⛰️    ⛰️   
+🌱                                   🪨   
+                          🍃         🍃   
+                                   🌱   🌾
+        🌾     🍃 ⛰️    🪨     🪨      🌱     
+  ⛰️  🌾                 🍃               🍃
+
+“Code in harmony.”
+<!--END:ZEN_GARDEN-->
