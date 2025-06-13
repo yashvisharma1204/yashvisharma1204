@@ -20,6 +20,12 @@
   - 📺 [YouTube](https://www.youtube.com/@yashvisharma1204)  
   - 💼 [Portfolio](https://bento.me/yashvisharma)
 
+
+<!--START:WORDCLOUD-->
+![Word Cloud](wordcloud.png)
+<!--END:WORDCLOUD-->
+
+
 ## 🚀 Stay Connected
 
 - 🌟 Let's collaborate on exciting projects and ideas!  
