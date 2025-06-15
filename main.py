@@ -98,7 +98,7 @@ def create_graph(df: pd.DataFrame) -> str:
     f = "{0:<%d} ({1:>%d}) {2}{3} {4}\n" % (max_str, max_digit)
 
     graph_str = ""
-    for i in range(0, min(len(df), 5)):
+    for i in range(0, min(len(df), 10)):
         graph_str += f.format(df["skill"][i], df["count"][i],
                                    '█' * round(df["pct"][i]),
                                    '░' * (bar_len - round(df["pct"][i])),
