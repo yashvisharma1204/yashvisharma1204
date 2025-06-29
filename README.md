@@ -38,3 +38,16 @@
 
 “Grow slow, grow steady.”
 <!--END:ZEN_GARDEN-->
+   🌾          🌾        🌱   🪨                             🍃                      
+ 🌱    🌾🌱                   🌱  🪨  🌾   🌾         🪨    🌾              🪨       🍃    
+    🌾          🌾                      ⛰️🌱🍃  🍃    🌱  🪨                            
+       🌱🌱🍃   🌾            🍃      🍃                  🌾                    🍃      
+          🪨     ⛰️                           🌾                                   
+🌱⛰️       ⛰️         🍃        🌱                 🌾       🍃 🪨        ⛰️      🪨       
+   🌱   🍃   🌱       🍃      🍃 🌱                              ⛰️ ⛰️   🌱              
+🌱        🌾  ⛰️      🌱                              🌾  🌱      🌱          ⛰️       ⛰️
+  🍃                        🌱        🪨      🌱🍃                                   
+                         🪨  ⛰️         🍃 🌱                🌱                      
+
+“Grow slow, grow steady.”
+<!--END:ZEN_GARDEN-->
