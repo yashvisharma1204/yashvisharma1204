@@ -12,7 +12,7 @@
 - **Portfolio**: [Data Portfolio](https://datascienceportfol.io/yashvisharma)
 - **Skills I Use Daily**: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`  
 - **Passions**: `Machine Learning`, `Data Engineering`,`Large Language Models (LLM)`  
-- **Currently Learning**: `Java`, `Rust`  
+- **Currently Learning**: `Java`, `Spring Boot`  
 - **Working On**: Machine learning projects  
 - **Reach Out To Me**:  
   - 🌍 [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)  
