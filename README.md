@@ -31,3 +31,16 @@
 
 “Grow slow, grow steady.”
 <!--END:ZEN_GARDEN-->
+⛰️   🌾                    🌱      🍃     🪨     🌱⛰️        🍃             ⛰️🪨  ⛰️       
+   🌱     🪨🪨                         🍃                                           
+         🪨             🌱  🌱  ⛰️ 🍃 🍃             🪨🪨      🌱  🌾  🍃          🌱       
+              🍃                                ⛰️   🪨            🌾   🍃    🪨      
+🌱      ⛰️   🌾              🪨        🪨                                       🍃    
+ 🪨🌱🌱🪨     🌱  ⛰️                      🪨   🪨  🍃                       🌾         🪨  
+         🍃       🪨         ⛰️       🌱        ⛰️    🌱 🍃                            
+                      🍃    🪨                         🌾                🌱         
+  🪨                     🌾    🌱          🌾🌾            🪨 🍃      🍃      🍃         
+🍃         🌾         🌱                                               🌾🌾          
+
+“Breathe in calm. Breathe out stress.”
+<!--END:ZEN_GARDEN-->
