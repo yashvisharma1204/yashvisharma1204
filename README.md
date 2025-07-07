@@ -2,7 +2,7 @@
   Hello there!  <img src="https://github.com/user-attachments/assets/f1fba2dc-5f60-4fb7-bd32-0a7918ccc600" width="30"/>
 </p>
 
-I’m ![Yashvi Sharma](https://yashvisharma1204.github.io/yashvi/), a CSE student passionate about building tech that’s smart, simple, and impactful.
+I’m [Yashvi Sharma](https://yashvisharma1204.github.io/yashvi/), a CSE student passionate about building tech that’s smart, simple, and impactful.
 
 I love bringing ideas to life through code — from clean UIs to backend systems using Spring Boot, Java, cloud computing, and Python. 
 Lately, I’ve been exploring AI and doing lots of DSA (with lots of late-night debugging along the way!).
