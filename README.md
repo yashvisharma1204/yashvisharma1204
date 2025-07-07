@@ -1,11 +1,6 @@
 <p>
-  Hi there!  <img src="https://github.com/user-attachments/assets/f1fba2dc-5f60-4fb7-bd32-0a7918ccc600" width="30"/>
+  Hello there!  <img src="https://github.com/user-attachments/assets/f1fba2dc-5f60-4fb7-bd32-0a7918ccc600" width="30"/>
 </p>
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> 
 
 I’m Yashvi, a CSE student passionate about building tech that’s smart, simple, and impactful.
 
@@ -18,3 +13,7 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 - I’m most productive when the world’s asleep 🌙
 - I drink coffee like my life is dependant on it.
 - Studio Ghibli movies have my heart, especially Ponyo.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> 
