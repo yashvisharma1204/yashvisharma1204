@@ -1,4 +1,4 @@
-Hi there! [](https://fonts.gstatic.com/s/e/notoemoji/latest/1fabc/lottie.json)
+Hi there! (https://fonts.gstatic.com/s/e/notoemoji/latest/1fabc/lottie.json)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
