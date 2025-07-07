@@ -25,22 +25,7 @@
 
 - 🌟 Let's collaborate on exciting projects and ideas!  
 - Check out my repositories and feel free to drop me a message.
-🌾  🌱      🌱          ⛰️       ⛰️
-  🍃                        🌱        🪨      🌱🍃                                   
-                         🪨  ⛰️         🍃 🌱                🌱                      
-
-“Grow slow, grow steady.”
-<!--END:ZEN_GARDEN-->
-⛰️   🌾                    🌱      🍃     🪨     🌱⛰️        🍃             ⛰️🪨  ⛰️       
-   🌱     🪨🪨                         🍃                                           
-         🪨             🌱  🌱  ⛰️ 🍃 🍃             🪨🪨      🌱  🌾  🍃          🌱       
-              🍃                                ⛰️   🪨            🌾   🍃    🪨      
-🌱      ⛰️   🌾              🪨        🪨                                       🍃    
- 🪨🌱🌱🪨     🌱  ⛰️                      🪨   🪨  🍃                       🌾         🪨  
-         🍃       🪨         ⛰️       🌱        ⛰️    🌱 🍃                            
-                      🍃    🪨                         🌾                🌱         
-  🪨                     🌾    🌱          🌾🌾            🪨 🍃      🍃      🍃         
-🍃         🌾         🌱                                               🌾🌾          
+        
 
 “Breathe in calm. Breathe out stress.”
 <!--END:ZEN_GARDEN-->
