@@ -1,31 +1,16 @@
-# Hello there! <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" />
-
-**A Student by day ☼ and a Developer by night ☾**
+Hi there! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> 
 
-## 🎓 About Me
+I’m Yashvi, a CSE student passionate about building tech that’s smart, simple, and impactful.
 
-- **Student**: Computer Science and Engineering (Specializing in AI and Data Engineering) 👑  
-- **Portfolio**: [Data Portfolio](https://datascienceportfol.io/yashvisharma)
-- **Skills I Use Daily**: `.sql`, `.js`, `.html`, `.css`, `.py`, `.c`, `.java`, `.jsx`  
-- **Passions**: `Machine Learning`, `Data Engineering`,`Large Language Models (LLM)`  
-- **Currently Learning**: `Java`, `Spring Boot`  
-- **Working On**: Machine learning projects  
-- **Reach Out To Me**:  
-  - 🌍 [LinkedIn](https://www.linkedin.com/in/yashvi-sharma-150863220/)  
-  - 🖋️ [Blog](https://blog95319.wordpress.com/)  
-  - 📺 [YouTube](https://www.youtube.com/@yashvisharma1204)  
-  - 💼 [Portfolio](https://bento.me/yashvisharma)
+I love bringing ideas to life through code — from clean UIs to backend systems using Spring Boot, Java, cloud computing, and Python. Lately, I’ve been exploring AI and doing lots of DSA(with lots of late-night debugging along the way!).
 
+Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumble Guys like a pro.
 
-## 🚀 Stay Connected
-
-- 🌟 Let's collaborate on exciting projects and ideas!  
-- Check out my repositories and feel free to drop me a message.
-        
-
-“Breathe in calm. Breathe out stress.”
-<!--END:ZEN_GARDEN-->
+**Fun Facts:**
+- I’m most productive when the world’s asleep 🌙
+- I drink coffee like my life is dependant on it.
+- Studio Ghibli movies have my heart, especially Ponyo.
