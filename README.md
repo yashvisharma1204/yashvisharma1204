@@ -1,4 +1,8 @@
-Hi there! ![512](https://github.com/user-attachments/assets/f1fba2dc-5f60-4fb7-bd32-0a7918ccc600)
+Hi there!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1fba2dc-5f60-4fb7-bd32-0a7918ccc600" width="250"/>
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
