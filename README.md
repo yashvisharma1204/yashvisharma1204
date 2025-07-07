@@ -1,5 +1,5 @@
 <p>
-  Hello there!  <img src="https://github.com/user-attachments/assets/a9cf602f-9d39-4b74-a3a2-4997e940d36c" width="25"/>
+  Hello there!  <img src="https://github.com/user-attachments/assets/a9cf602f-9d39-4b74-a3a2-4997e940d36c" width="20"/>
 </p>
 
 I’m **[Yashvi Sharma](https://yashvisharma1204.github.io/yashvi/)**, a CSE student passionate about building tech that’s smart, simple, and impactful.
