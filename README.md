@@ -4,8 +4,8 @@
 
 I’m **Yashvi Sharma**, a CSE student passionate about building tech that’s smart, simple, and impactful.
 
-I love bringing ideas to life through code — from clean UIs to backend systems using `Spring Boot`, `Java`, `cloud computing`, and `Python`. 
-Lately, I’ve been exploring `data science` and doing lots of `DSA` (with lots of late-night debugging along the way!).
+I love bringing ideas to life through code — from clean UIs to backend systems using `Flask`, `MongoDB`, `cloud computing`, `Java` and `Python`. 
+Lately, I’ve been exploring `Spring Boot` and doing lots of `DSA` (with lots of late-night debugging along the way!).
 
 Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumble Guys like a pro.
 
