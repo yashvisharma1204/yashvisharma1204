@@ -17,7 +17,7 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 <p>
   <strong>Connect with me:</strong><br>
   <a href="https://leetcode.com/spider_gwen" target="_blank" style="margin-right: 10px;">
-    <img src="https://icons8.com/icon/qVAmFIlB2tHI/leetcode" alt="LeetCode" width="30">
+    [https://img.icons8.com/?size=100&id=qVAmFIlB2tHI&format=png&color=000000](https://img.icons8.com/?size=100&id=qVAmFIlB2tHI&format=png&color=000000)
   </a>
   
   <a href="https://www.linkedin.com/in/yourusername" target="_blank" style="margin-right: 10px;">
