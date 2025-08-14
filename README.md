@@ -17,7 +17,7 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 <p>
   <strong>Connect with me:</strong><br>
    
-  [![icons8](https://img.icons8.com/?size=48&id=qVAmFIlB2tHI&format=png&color=fff)](https://leetcode.com/u/spider_gwen/)
+  [![icons8](https://img.icons8.com/?size=48&id=qVAmFIlB2tHI&format=png&color=ffffff)](https://leetcode.com/u/spider_gwen/)
   [![icons9](https://img.icons8.com/?size=48&id=SeeIWhVNaFtg&format=png&color=fff)](https://www.instagram.com/yashvi.png/)
   [![icons10](https://img.icons8.com/?size=48&id=LwLvyr8VoMnv&format=png&color=fff)](https://www.youtube.com/@yashvisharma1204)
   [![icons11](https://img.icons8.com/?size=48&id=u6S98q8qieUu&format=png&color=fff)](https://yashvisharma1204.github.io/yashvi/)
