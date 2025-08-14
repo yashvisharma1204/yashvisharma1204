@@ -18,19 +18,9 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
   <strong>Connect with me:</strong><br>
    
   [![icons8](https://img.icons8.com/?size=48&id=qVAmFIlB2tHI&format=png&color=FFFFFF)](https://leetcode.com/u/spider_gwen/)
-  
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" style="border: 2px solid #00f2ff; border-radius: 5px; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00f2ff);">
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="30" style="border: 2px solid #00f2ff; border-radius: 5px; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00f2ff);">
-  </a>
-  <style>
-    a img:hover {
-      transform: scale(1.1);
-      filter: drop-shadow(0 0 10px #ff00ff);
-    }
-  </style>
+  [![icons9](https://img.icons8.com/?size=48&id=SeeIWhVNaFtg&format=png&color=000000)](https://www.instagram.com/yashvi.png/)
+  [![icons10](https://img.icons8.com/?size=48&id=LwLvyr8VoMnv&format=png&color=000000)](https://www.youtube.com/@yashvisharma1204)
+  [![icons11](https://img.icons8.com/?size=100&id=u6S98q8qieUu&format=png&color=000000)](https://yashvisharma1204.github.io/yashvi/)
 </p>
 
 <p align="left">
