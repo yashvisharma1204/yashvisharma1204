@@ -16,7 +16,7 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 
 <p>
   <strong>Connect with me:</strong><br>
-  [https://img.icons8.com/?size=100&id=qVAmFIlB2tHI&format=png&color=000000](https://img.icons8.com/?size=100&id=qVAmFIlB2tHI&format=png&color=000000)
+   ![icons8](https://img.icons8.com/?size=100&id=qVAmFIlB2tHI&format=png&color=000000)
   
   <a href="https://www.linkedin.com/in/yourusername" target="_blank" style="margin-right: 10px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" style="border: 2px solid #00f2ff; border-radius: 5px; transition: transform 0.3s; filter: drop-shadow(0 0 5px #00f2ff);">
