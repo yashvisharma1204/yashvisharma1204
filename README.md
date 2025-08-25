@@ -29,5 +29,5 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 </p> 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=punitkumar4871&label=Profile%20Views-1234567&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-1234567-blue">
 </p> 
