@@ -28,6 +28,3 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234567-blue">
-</p> 
