@@ -1,25 +1,28 @@
 name: Update Contributions in Gist
 
 on:
-  schedule:
-    - cron: "0 0 * * 1"   # Runs every Monday at midnight
-  workflow_dispatch:      # Allows manual trigger 
+  workflow_dispatch:   # Runs only when you trigger manually
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
       - name: Fetch Pull Requests
         run: |
           curl -s -H "Accept: application/vnd.github.v3+json" \
           "https://api.github.com/search/issues?q=author:yashvisharma1204+type:pr+is:public" \
-          | jq '.items[] | "- [" + .title + "](" + .html_url + ") - " + .repository_url' \
+          | jq -r '.items[] | "- [" + .title + "](" + .html_url + ") - " + (.repository_url | split("/")[-1])' \
           > contributions.md
 
       - name: Update Gist
-        uses: andymckay/gist-update-action@v1
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-          gist_id: 02f2962ebc64e93068507b372db61fa3
-          file_name: contributions.md
+        run: |
+          CONTENT=$(jq -Rs . < contributions.md)
+          curl -X PATCH \
+            -H "Authorization: token ${{ secrets.GIST_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/gists/02f2962ebc64e93068507b372db61fa3 \
+            -d "{\"files\": {\"contributions.md\": {\"content\": $CONTENT}}}"
