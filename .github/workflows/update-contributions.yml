@@ -3,7 +3,7 @@ name: Update Contributions in Gist
 on:
   schedule:
     - cron: "0 0 * * 1"   # Runs every Monday at midnight
-  workflow_dispatch:      # Allows manual trigger
+  workflow_dispatch:      # Allows manual trigger 
 
 jobs:
   update:
