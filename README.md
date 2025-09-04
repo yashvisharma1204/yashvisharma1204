@@ -24,6 +24,8 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
   [![icons11](https://img.icons8.com/?size=50&id=Vps0Nsl80v4P&format=png&color=000000)](https://yashvisharma1204.github.io/yashvi/)
 </p>
 
+<script src="https://gist.github.com/yashvisharma1204/02f2962ebc64e93068507b372db61fa3.js"></script>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> 
