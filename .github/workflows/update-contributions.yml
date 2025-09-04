@@ -22,7 +22,7 @@ jobs:
         run: |
           CONTENT=$(jq -Rs . < contributions.md)
           curl -X PATCH \
-            -H "Authorization: token ${{ secrets.GIST_TOKEN }}" \
+            -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/gists/02f2962ebc64e93068507b372db61fa3 \
             -d "{\"files\": {\"contributions.md\": {\"content\": $CONTENT}}}"
