@@ -20,3 +20,6 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
 </p> 
 
 <img src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/assets/snake.svg"/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/spider_gwen?theme=light&ext=activity)
+
