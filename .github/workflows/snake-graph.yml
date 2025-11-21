@@ -1,0 +1,25 @@
+name: snake-graph
+on:
+schedule:
+- cron: '0 6 * * 0' # weekly
+workflow_dispatch: {}
+
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+steps:
+- name: Checkout
+uses: actions/checkout@v4
+- name: Install dependencies
+run: |
+sudo apt-get update && sudo apt-get install -y python3 python3-pip
+pip3 install pillow numpy
+- name: Generate snake GIF
+run: |
+python3 tools/generate_snake.py --output assets/snake.gif
+- name: Commit artifact
+run: |
+git add assets/snake.gif
+git commit -m "feat: update snake graph" || echo "no changes"
+git push
