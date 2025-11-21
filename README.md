@@ -19,4 +19,4 @@ Outside of tech, you’ll find me sketching, watching K-Drama, or playing Stumbl
   <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> 
 
-![](https://www.github.com/yashvisharma1204/yashvisharma1204/assets/snake.svg)
+[](https://www.github.com/yashvisharma1204/yashvisharma1204/assets/snake.svg)
