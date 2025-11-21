@@ -1,8 +1,8 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake (Dark Mode)
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # runs daily at 6:00 PM
+    - cron: "0 18 * * *"   # Runs every day at 6 PM UTC
   workflow_dispatch:
 
 jobs:
@@ -13,26 +13,28 @@ jobs:
       - name: Clone Repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Dark)
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: yashvisharma1204
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg
+          snake_color: "#FFFFFF"       # snake white in dark mode
+          background_color: "#000000"  # fully black background
 
       - name: Upload Snake Animation as Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: snake-graph
-          path: dist/snake.svg
+          name: snake-dark
+          path: dist/snake-dark.svg
 
-      - name: Commit & Push Snake Animation to Profile Repo
+      - name: Commit & Push Snake Animation (Dark)
         run: |
           mkdir -p assets
-          cp dist/snake.svg assets/snake.svg
+          cp dist/snake-dark.svg assets/snake-dark.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/snake.svg
-          git commit -m "chore: update contribution snake" || echo "No changes"
+          git add assets/snake-dark.svg
+          git commit -m "chore: update dark snake graph" || echo "No changes"
           git push
