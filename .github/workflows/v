@@ -1,0 +1,32 @@
+name: Update LeetCode Stats Gist
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Runs daily at 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch LeetCode stats JSON
+        run: |
+          USERNAME="spider_gwen"
+          API_URL="https://leetcode-stats-api.herokuapp.com/${USERNAME}"
+          echo "Fetching stats for ${USERNAME}"
+          curl -s $API_URL > stats.json
+          cat stats.json
+
+      - name: Update Gist with new stats
+        uses: andymckay/append-gist-action@v1
+        env:
+          GIST_ID: d8579ae538d3d6ca99f36fac6ace6221
+GIST_TOKEN: ${{ secrets.GISTS }}
+        with:
+          filename: "leetcode-stats.json"
+          content: |
+            $(cat stats.json)
