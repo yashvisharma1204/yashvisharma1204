@@ -7,7 +7,7 @@ I’m **Yashvi Sharma**, a Computer Science student focused on building systems 
 
 Right now, I’m deeply engaged in **Data Structures & Algorithms** and **Machine Learning**, with a growing interest in **ML research** and real-world problem solving. I enjoy working across the stack, from clean interfaces to robust backend systems, and I’m actively **seeking SDE internship opportunities**.
 
-My technical toolkit includes  
+I like understanding *why* things work, not just making them run. My technical toolkit includes  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" title="Scikit-learn"/>
@@ -18,7 +18,7 @@ My technical toolkit includes
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25"/> . 
-I like understanding *why* things work, not just making them run.
+
 
 Outside of code, I’m usually running on **coffee**, reading books, or listening to music that completely depends on my mood. I believe confidence is a habit, so I dress well to feel good, and I make sure I sleep peacefully to stay stress-free and focused.
 
