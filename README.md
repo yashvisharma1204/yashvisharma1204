@@ -29,8 +29,6 @@ Outside of code, I’m usually running on **coffee**, reading books, or listenin
 - My music taste changes with my emotions  
 - Dressing well boosts my confidence, good sleep keeps me balanced  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashvisharma1254&label=Profile%25views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<img src="https://github.com/yashvisharma1254/yashvisharma1254/blob/main/assets/snake.svg"/>
+<img src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/assets/snake.svg"/>
