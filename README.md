@@ -31,6 +31,9 @@ My technical toolkit includes :**
 - My music taste changes with my emotions  
 - Dressing well boosts my confidence, good sleep keeps me balanced  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" 
+     width="160" 
+     align="right"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 <!-- <img src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/assets/snake.svg"/> -->
