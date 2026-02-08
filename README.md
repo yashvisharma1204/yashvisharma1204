@@ -12,6 +12,7 @@ My long-term goal is to grow into an **ML Researcher**, someone who not only bui
 I enjoy working across different layers of technology, from backend logic and system architecture to applied machine learning projects. I value clarity, curiosity, and building things that reflect thoughtful design rather than just functionality.
 
 **I like understanding *why* things work, not just making them run. My technical toolkit includes :**
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" title="Scikit-learn"/>
