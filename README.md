@@ -24,8 +24,7 @@ My technical toolkit includes :*
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25"/>
 
-## Fun Facts
-
+**Fun Facts**
 <div align="left">
 <img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="220" align="right"/>
 
