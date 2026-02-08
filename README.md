@@ -11,8 +11,8 @@ My long-term goal is to grow into an **ML Researcher**, someone who not only bui
 
 I enjoy working across different layers of technology, from backend logic and system architecture to applied machine learning projects. I value clarity, curiosity, and building things that reflect thoughtful design rather than just functionality.
 
-**I like understanding *why* things work, not just making them run.
-My technical toolkit includes :** 
+*I like understanding *why* things work, not just making them run.
+My technical toolkit includes :*
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="25" title="Scikit-learn"/>
@@ -26,9 +26,8 @@ My technical toolkit includes :**
 
 ## Fun Facts
 
-<table>
-<tr>
-<td>
+<div align="left">
+<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="220" align="right"/>
 
 - Most of my deep work happens late at night 🌙  
 - Coffee is non-negotiable  
@@ -36,14 +35,6 @@ My technical toolkit includes :**
 - My music taste changes with my emotions  
 - Dressing well boosts my confidence, good sleep keeps me balanced  
 
-</td>
-<td>
-
-<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="180"/>
-
-</td>
-</tr>
-</table>
-
+</div>
 
 <!-- <img src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/assets/snake.svg"/> -->
