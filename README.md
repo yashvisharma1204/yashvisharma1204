@@ -24,16 +24,26 @@ My technical toolkit includes :**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25"/>
 
-**Fun Facts**
+## Fun Facts
+
+<table>
+<tr>
+<td>
+
 - Most of my deep work happens late at night 🌙  
 - Coffee is non-negotiable  
 - Books help me slow down and think clearly  
 - My music taste changes with my emotions  
 - Dressing well boosts my confidence, good sleep keeps me balanced  
 
-<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" 
-     width="160" 
-     align="right"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
+</td>
+<td>
+
+<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="180"/>
+
+</td>
+</tr>
+</table>
+
 
 <!-- <img src="https://github.com/yashvisharma1204/yashvisharma1204/blob/main/assets/snake.svg"/> -->
