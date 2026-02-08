@@ -7,9 +7,9 @@ I’m **Yashvi Sharma**, a Computer Science student passionate about designing i
 
 I previously worked as a **Data Science Intern at Futurense Technologies**, and I’m currently an **incoming Software Development Engineer Intern at Nielsen**. At this stage of my career, I’m strengthening my engineering foundation through **Data Structures & Algorithms** while continuously deepening my knowledge of **Machine Learning, Deep Learning, and intelligent system design**.
 
-My long-term goal is to grow into an **ML Researcher** — someone who not only builds systems but also understands the theory, modelling, and mathematics behind them. I’m especially interested in exploring how scalable software engineering and deep learning intersect to create impactful solutions.
+My long-term goal is to grow into an **ML Researcher**, someone who not only builds systems but also understands the theory, modelling, and mathematics behind them. I’m especially interested in exploring how scalable software engineering and deep learning intersect to create impactful solutions.
 
-I enjoy working across different layers of technology — from backend logic and system architecture to applied machine learning projects. I value clarity, curiosity, and building things that reflect thoughtful design rather than just functionality.
+I enjoy working across different layers of technology, from backend logic and system architecture to applied machine learning projects. I value clarity, curiosity, and building things that reflect thoughtful design rather than just functionality.
 
 I like understanding *why* things work, not just making them run. My technical toolkit includes  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25"/> 
