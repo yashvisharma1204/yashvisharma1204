@@ -26,7 +26,7 @@ My technical toolkit includes :*
 
 **Fun Facts**
 <div align="left">
-<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="220" align="right"/>
+<img src="https://github.com/user-attachments/assets/3011a12a-3f25-464e-a0f0-835f4cbe5f75" width="180" align="right"/>
 
 - Most of my deep work happens late at night 🌙  
 - Coffee is non-negotiable  
