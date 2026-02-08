@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/a9cf602f-9d39-4b74-a3a2-4997e940d36c" width="30"/>
 </p>
 
-I’m **Yashvi Sharma**, a Computer Science student focused on building systems that are intelligent, scalable, and meaningful.
+I’m **Yashvi Sharma**, a Computer Science student currently preparing to begin my journey as a Software Development Engineering intern while steadily deepening my understanding of Machine Learning and intelligent systems. I enjoy building software that is not only functional but thoughtful — systems that solve real problems, scale well, and reflect strong engineering decisions.
 
-Right now, I’m deeply engaged in **Data Structures & Algorithms** and **Machine Learning**, with a growing interest in **ML research** and real-world problem solving. I enjoy working across the stack, from clean interfaces to robust backend systems, and I’m actively **seeking SDE internship opportunities**.
+
 
 I like understanding *why* things work, not just making them run. My technical toolkit includes  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="25"/> 
