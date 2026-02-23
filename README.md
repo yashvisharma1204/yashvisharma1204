@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/a9cf602f-9d39-4b74-a3a2-4997e940d36c" width="30"/>
 </p>
 
-- Yashvi Sharma – BTech CSE (AI & Data Engineering) student
+- I am Yashvi Sharma, BTech CSE (AI & Data Engineering) student at LPU
 - Ex Data Science Intern – Futurense Technologies → Now, **SDE Intern – Nielsen**
 - Interested in Machine Learning, Deep Learning & NLP
 - Exploring backend systems + applied ML + scalable system design + DSA
