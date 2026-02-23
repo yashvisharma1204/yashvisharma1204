@@ -21,8 +21,10 @@ My current technical toolkit includes
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="25"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="25"/>
 
-Currently reading: 
-[Currently reading: What is a Mixture of Experts (MoE)?](https://medium.com/data-science-in-your-pocket/what-is-a-mixture-of-experts-llm-moe-8bf98846df41)
+Currently reading and watching: 
+- [What is a Mixture of Experts (MoE)? ↗](https://medium.com/data-science-in-your-pocket/what-is-a-mixture-of-experts-llm-moe-8bf98846df41)
+- [Attention is all you need ↗](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Neural network zero to hero ↗](https://www.youtube.com/watch?v=VMj-3S1tku0)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat"/> 
