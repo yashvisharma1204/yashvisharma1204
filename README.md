@@ -26,3 +26,6 @@ My current technical toolkit includes
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
+
+<img width="2440" height="1098" alt="image" src="https://github.com/user-attachments/assets/552a5b00-0f6e-4b96-8f88-62e8cf44e304" />
+
