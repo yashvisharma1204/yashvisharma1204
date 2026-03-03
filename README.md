@@ -4,7 +4,7 @@
 </p>
 
 - I am Yashvi Sharma, BTech CSE (AI & Data Engineering) student at LPU
-- Ex Data Science Intern – Futurense Technologies → Now, **SDE Intern – Nielsen**
+- Ex-Data Science Intern – Futurense Technologies → Now, **SDE Intern – Nielsen**
 - Interested in Machine Learning, Deep Learning & NLP
 - Exploring backend systems + applied ML + scalable system design + DSA
 - Aspiring **ML Researcher** focused on strong fundamentals & real-world impact
