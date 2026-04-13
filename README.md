@@ -27,9 +27,9 @@ My current technical toolkit includes
 <img src="https://komarev.com/ghpvc/?username=yashvisharma1204&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-## 🤝 Open Source Contributions
+Open Source Contributions
 <p align="left">
-  <a href="https://github.com/checkstyle">
+  <a href="https://github.com/checkstyle/checkstyle">
     <img src="https://github.com/checkstyle" width="50" height="50"/>
   </a>
 </p>
