@@ -29,7 +29,7 @@ My current technical toolkit includes
 
 Open Source Contributions
 <p align="left">
-  <a href="https://github.com/checkstyle/checkstyle/issues/18931">
-    <img src="https://github.com/checkstyle.png" width="25"/> - Issue: 18931 
+  <img src="https://github.com/checkstyle.png" width="25"/>
+  <a href="https://github.com/checkstyle/checkstyle/issues/18931">Issue: 18931 
   </a>
 </p>
