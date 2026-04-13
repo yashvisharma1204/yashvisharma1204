@@ -30,6 +30,7 @@ My current technical toolkit includes
 Open Source Contributions
 <p align="left">
   <img src="https://github.com/checkstyle.png" width="25"/>
-  <a href="https://github.com/checkstyle/checkstyle/issues/18931">Issue: 18931 
+  Issue: 
+  <a href="https://github.com/checkstyle/checkstyle/issues/18931">18931 - Example of validation for Large Constant Collection
   </a>
 </p>
