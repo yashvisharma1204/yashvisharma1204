@@ -30,6 +30,6 @@ My current technical toolkit includes
 Open Source Contributions
 <p align="left">
   <a href="https://github.com/checkstyle/checkstyle">
-    <img src="https://github.com/checkstyle.png" width="50" height="50"/>
+    <img src="https://github.com/checkstyle.png" width="25"/>
   </a>
 </p>
