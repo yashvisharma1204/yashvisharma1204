@@ -6,7 +6,7 @@ SDE Intern @ Nielsen • Ex-Data Science Intern @ Futurense Technologies
 
 currently exploring:
 
-* transformers from scratch
+* anything and everything from scratch
 * machine learning & NLP
 * backend systems + scalable design
 * probabilistic reasoning & AI research
