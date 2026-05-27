@@ -1,15 +1,14 @@
 Hey there! I'm Yashvi Sharma 👋
 
-AI & Data Engineering student at LPU
+Third year B.Tech CSE (AI & Data Engineering student) at LPU
 
 SDE Intern @ Nielsen • Ex-Data Science Intern @ Futurense Technologies
 
 currently exploring:
-
 * anything and everything from scratch
 * machine learning & NLP
 * backend systems + scalable design
-* probabilistic reasoning & AI research
+* agentic ai
 
 interests:
 deep learning • interpretability • optimization • open source
