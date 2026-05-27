@@ -16,5 +16,4 @@ deep learning • interpretability • optimization • open source
 
 outside tech:
 binge watching • research rabbit holes • strategy games 
-    
-[Open source Contribution](https://gist.github.com/yashvisharma1204/02f2962ebc64e93068507b372db61fa3) ♥
+
