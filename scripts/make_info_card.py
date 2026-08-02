@@ -2,7 +2,7 @@ import svgwrite
 
 def build_card():
     # Expanded height from 320px to 650px to align with the ASCII portrait
-    dwg = svgwrite.Drawing('info-card.svg', size=('490px', '650px'), viewBox='0 0 490 650')
+    dwg = svgwrite.Drawing('info-card.svg', size=('490px', '600px'), viewBox='0 0 490 650')
     
     # Custom CSS for terminal aesthetics & staggered fade-in animations
     style = """
