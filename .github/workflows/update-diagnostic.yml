@@ -1,0 +1,43 @@
+name: Update Terminal Diagnostic SVG
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-svg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants permission to push updated SVG back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 10 # Fetches history so local git log works cleanly
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate Diagnostic SVG
+        run: python scripts/update_diagnostic.py
+
+      - name: Commit and Push SVG Update
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add agent_diagnostic.svg
+          
+          # Only commit and push if the SVG has actually changed
+          if git diff --staged --quiet; then
+            echo "No changes in SVG. Skipping commit."
+          else
+            git commit -m "chore(telemetry): update agent_diagnostic.svg [skip ci]"
+            git push
+          fi
