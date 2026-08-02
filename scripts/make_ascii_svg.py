@@ -1,83 +1,119 @@
 import cv2
 import numpy as np
+import os
 
 # Configuration
-INPUT_IMAGE = "source-prepped.png"
+# Read color original to sample exact petal/leaf colors
+COLOR_IMAGE = "image.jpg" if os.path.exists("image.jpg") else "image.png"
+GRAY_IMAGE = "source-prepped.png"
 OUTPUT_SVG = "avi-ascii.svg"
 
-# Keep the detailed grid (Resolution looks good in your example)
-GRID_WIDTH = 130 
+# Grid width (controls horizontal density)
+GRID_WIDTH = 115 
 
-# Extended detailed ramp
+# ASCII Character Ramp
 RAMP = " .`'-_:=+*!|/r(l1Z4X#%@"
 
-def image_to_ascii(image_path, width=130):
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        raise FileNotFoundError(f"Could not find {image_path}. Please run prep_photo.py first.")
+def rgb_to_hex(r, g, b):
+    """Converts RGB pixel tuple to HTML hex string."""
+    return f"#{r:02x}{g:02x}{b:02x}"
 
-    h, w = img.shape
+def image_to_colored_ascii(gray_path, color_path, width=115):
+    img_gray = cv2.imread(gray_path, cv2.IMREAD_GRAYSCALE)
+    img_color = cv2.imread(color_path)
+
+    if img_gray is None or img_color is None:
+        raise FileNotFoundError(f"Missing input images. Check '{gray_path}' and '{color_path}'.")
+
+    # Resize color to match grayscale dimensions if needed
+    img_color = cv2.resize(img_color, (img_gray.shape[1], img_gray.shape[0]))
+    
+    h, w = img_gray.shape
     aspect_ratio = h / w
-    # Multiplier keeps the flower proportions correct
-    height = int(width * aspect_ratio * 0.52)
     
-    resized = cv2.resize(img, (width, height), interpolation=cv2.INTER_CUBIC)
+    # --- HEIGHT FIX ---
+    # Lowered multiplier from 0.52 to 0.38 to significantly reduce total rows/height
+    height = int(width * aspect_ratio * 0.38)
     
-    ascii_rows = []
+    resized_gray = cv2.resize(img_gray, (width, height), interpolation=cv2.INTER_CUBIC)
+    resized_color = cv2.resize(img_color, (width, height), interpolation=cv2.INTER_CUBIC)
+    
+    ascii_grid = []
     ramp_len = len(RAMP)
-    for row in resized:
-        line = ""
-        for pixel in row:
-            index = int((255 - pixel) / 255 * (ramp_len - 1))
-            line += RAMP[index]
-        ascii_rows.append(line)
+    
+    for r in range(height):
+        row_data = []
+        for c in range(width):
+            pixel_val = resized_gray[r, c]
+            b, g, r_val = resized_color[r, c]  # OpenCV reads BGR
+            
+            # Map brightness to character
+            char_idx = int((255 - pixel_val) / 255 * (ramp_len - 1))
+            char = RAMP[char_idx]
+            
+            # Escape XML special characters
+            if char == " ": char = "&#160;"
+            elif char == "&": char = "&amp;"
+            elif char == "<": char = "&lt;"
+            elif char == ">": char = "&gt;"
+            
+            hex_color = rgb_to_hex(r_val, g, b)
+            row_data.append((char, hex_color))
+            
+        ascii_grid.append(row_data)
         
-    return ascii_rows, width, height
+    return ascii_grid, width, height
 
-def generate_svg(ascii_rows, cols, rows):
-    # --- GEOMETRY FIX ---
-    # Shrink font geometry to fit high-detail grid without clipping
-    char_width = 6.2   # Prevents character overlap
-    line_height = 10.0  
+def generate_svg(ascii_grid, cols, rows):
+    # Tightened character and line geometry for compact display
+    char_width = 6.2   
+    line_height = 8.5  # Reduced from 10.0 to make overall container shorter
     
-    # Calculate necessary viewbox width based on grid and character size
-    # GridWidth(130) * CharWidth(6.2) = 806. Add small padding.
-    view_width = int(cols * char_width + 15)
-    view_height = int(rows * line_height + 25)
+    view_width = int(cols * char_width + 20)
+    view_height = int(rows * line_height + 30)
     
-    # Optional: If you want to scale the entire image down to fit perfectly 
-    # side-by-side with the card (e.g., 370px width), use the display_width configuration.
-    # Otherwise, the SVG will naturally take up its natural width (821px).
-    display_width = view_width 
-    display_height = view_height
-    
-    duration_per_line = 0.03 # Typing speed
+    duration_per_line = 0.02
     
     svg_lines = []
-    # Start SVG with updated ViewBox and optimized display size
-    svg_lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {view_width} {view_height}" width="{display_width}" height="{display_height}">')
+    svg_lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {view_width} {view_height}" width="{view_width}" height="{view_height}">')
     svg_lines.append('  <style>')
-    
-    # Fira Code recommended for cleanest monospace rendering on GitHub
-    svg_lines.append('    .ascii { font-family: "Fira Code", "Courier New", monospace; font-size: 9px; fill: #a6adba; white-space: pre; font-weight: 500; }')
+    svg_lines.append('    .ascii { font-family: "Fira Code", "Courier New", monospace; font-size: 8.5px; white-space: pre; font-weight: 500; }')
     svg_lines.append('    .line { opacity: 0; animation: typeIn 0.01s forwards; }')
     svg_lines.append('    @keyframes typeIn { to { opacity: 1; } }')
     svg_lines.append('  </style>')
     
-    # Terminal background container (expanded for updated dimensions)
-    svg_lines.append(f'  <rect width="100%" height="100%" rx="8" fill="#0d1117" stroke="#30363d"/>')
+    # Terminal Container
+    svg_lines.append('  <rect width="100%" height="100%" rx="8" fill="#0d1117" stroke="#30363d"/>')
+    
+    # Terminal Window Buttons
+    svg_lines.append('  <circle cx="20" cy="18" r="4" fill="#ff5f56"/>')
+    svg_lines.append('  <circle cx="32" cy="18" r="4" fill="#ffbd2e"/>')
+    svg_lines.append('  <circle cx="44" cy="18" r="4" fill="#27c93f"/>')
+    
     svg_lines.append('  <g class="ascii">')
     
-    # Starting vertical position
-    y = 20
-    for idx, line in enumerate(ascii_rows):
-        escaped_line = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace(" ", "&#160;")
+    y = 35
+    for idx, row in enumerate(ascii_grid):
         delay = round(idx * duration_per_line, 2)
         
-        # Horizontal padding increased (x="10") to contain leftmost edges
-        svg_lines.append(
-            f'    <text x="10" y="{y}" class="line" style="animation-delay: {delay}s;">{escaped_line}</text>'
-        )
+        # Group contiguous characters of the same color into single tspans to keep SVG lightweight
+        spans_html = ""
+        curr_color = None
+        curr_text = ""
+        
+        for char, color in row:
+            if color != curr_color:
+                if curr_text:
+                    spans_html += f'<tspan fill="{curr_color}">{curr_text}</tspan>'
+                curr_color = color
+                curr_text = char
+            else:
+                curr_text += char
+                
+        if curr_text:
+            spans_html += f'<tspan fill="{curr_color}">{curr_text}</tspan>'
+            
+        svg_lines.append(f'    <text x="12" y="{y}" class="line" style="animation-delay: {delay}s;">{spans_html}</text>')
         y += line_height
         
     svg_lines.append('  </g>')
@@ -86,15 +122,15 @@ def generate_svg(ascii_rows, cols, rows):
     return "\n".join(svg_lines)
 
 def main():
-    print(f"Correcting ASCII geometry for {INPUT_IMAGE} (Detail level: {GRID_WIDTH})...")
-    ascii_rows, cols, rows = image_to_ascii(INPUT_IMAGE, width=GRID_WIDTH)
+    print(f"Generating colored ASCII SVG from {COLOR_IMAGE}...")
+    ascii_grid, cols, rows = image_to_colored_ascii(GRAY_IMAGE, COLOR_IMAGE, width=GRID_WIDTH)
     
-    svg_content = generate_svg(ascii_rows, cols, rows)
+    svg_content = generate_svg(ascii_grid, cols, rows)
     
     with open(OUTPUT_SVG, "w", encoding="utf-8") as f:
         f.write(svg_content)
         
-    print(f"Successfully generated {OUTPUT_SVG}. Inspect the edges now!")
+    print(f"Successfully generated {OUTPUT_SVG} with full color & shortened height!")
 
 if __name__ == "__main__":
     main()
