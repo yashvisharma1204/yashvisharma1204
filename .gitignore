@@ -1,0 +1,16 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS specific files
+.DS_Store
+
+# Temporary prep images
+no_bg.png
+source-prepped.png
