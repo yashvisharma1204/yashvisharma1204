@@ -14,32 +14,32 @@
   <text x="15" y="98" class="term-font" fill="#484f58">TIMESTAMP      EVENT_ID     SUMMARY                                      STATUS</text>
   <g class="log-line" style="animation-delay: 0.0s;">
     <text x="15" y="116" class="term-font" fill="#484f58">2026-08-02 </text>
-    <text x="120" y="116" class="term-font" fill="#58a6ff">REF:93d0b6f</text>
-    <text x="205" y="116" class="term-font" fill="#c9d1d9">changed text size for history           </text>
+    <text x="120" y="116" class="term-font" fill="#58a6ff">REF:4776a68</text>
+    <text x="205" y="116" class="term-font" fill="#c9d1d9">changed requirements                    </text>
     <text x="480" y="116" class="term-font" fill="#3fb950">[PASS]</text>
   </g>
   <g class="log-line" style="animation-delay: 0.04s;">
     <text x="15" y="134" class="term-font" fill="#484f58">2026-08-02 </text>
-    <text x="120" y="134" class="term-font" fill="#58a6ff">REF:a65dd6e</text>
-    <text x="205" y="134" class="term-font" fill="#c9d1d9">changed text size                       </text>
+    <text x="120" y="134" class="term-font" fill="#58a6ff">REF:93d0b6f</text>
+    <text x="205" y="134" class="term-font" fill="#c9d1d9">changed text size for history           </text>
     <text x="480" y="134" class="term-font" fill="#3fb950">[PASS]</text>
   </g>
   <g class="log-line" style="animation-delay: 0.08s;">
     <text x="15" y="152" class="term-font" fill="#484f58">2026-08-02 </text>
-    <text x="120" y="152" class="term-font" fill="#58a6ff">REF:a3a0cd5</text>
-    <text x="205" y="152" class="term-font" fill="#c9d1d9">remove quantisation                     </text>
+    <text x="120" y="152" class="term-font" fill="#58a6ff">REF:a65dd6e</text>
+    <text x="205" y="152" class="term-font" fill="#c9d1d9">changed text size                       </text>
     <text x="480" y="152" class="term-font" fill="#3fb950">[PASS]</text>
   </g>
   <g class="log-line" style="animation-delay: 0.12s;">
     <text x="15" y="170" class="term-font" fill="#484f58">2026-08-02 </text>
-    <text x="120" y="170" class="term-font" fill="#58a6ff">REF:feda30b</text>
-    <text x="205" y="170" class="term-font" fill="#c9d1d9">feat The Horizontal Graph Timeline Vie..</text>
+    <text x="120" y="170" class="term-font" fill="#58a6ff">REF:a3a0cd5</text>
+    <text x="205" y="170" class="term-font" fill="#c9d1d9">remove quantisation                     </text>
     <text x="480" y="170" class="term-font" fill="#3fb950">[PASS]</text>
   </g>
   <g class="log-line" style="animation-delay: 0.16s;">
     <text x="15" y="188" class="term-font" fill="#484f58">2026-08-02 </text>
-    <text x="120" y="188" class="term-font" fill="#58a6ff">REF:48e60dd</text>
-    <text x="205" y="188" class="term-font" fill="#c9d1d9">feat Include source abstracts in RAG c..</text>
+    <text x="120" y="188" class="term-font" fill="#58a6ff">REF:feda30b</text>
+    <text x="205" y="188" class="term-font" fill="#c9d1d9">feat The Horizontal Graph Timeline Vie..</text>
     <text x="480" y="188" class="term-font" fill="#3fb950">[PASS]</text>
   </g>
   <line x1="15" y1="206" x2="525" y2="206" stroke="#30363d" stroke-dasharray="2 2"/>
