@@ -1,11 +1,18 @@
-<table border="0">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="./avi-ascii.svg" width="100%" max-height="400px" alt="ASCII Art" />
-      <img src="./agent_diagnostic.svg" alt="Self-Diagnosing Agent" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="./info-card.svg" alt="Info Card" />
-    </td>
-  </tr>
-</table>
+Hey there! I'm Yashvi Sharma 👋
+
+Third year B.Tech CSE (AI & Data Engineering student) at LPU
+
+SDE Intern @ Nielsen • Ex-Data Science Intern @ Futurense Technologies
+
+currently exploring:
+* anything and everything from scratch
+* machine learning & NLP
+* backend systems + scalable design
+* agentic ai
+
+interests:
+deep learning • interpretability • optimization • open source
+
+outside tech:
+binge watching • research rabbit holes • strategy games 
+I want to change it to above how to do it 
