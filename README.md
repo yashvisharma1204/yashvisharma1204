@@ -1,4 +1,4 @@
->*"A curious mind with a wanna-know-it-all drive."*
+>*"Driven by a quiet, insatiable obsession to see what’s written between the layers.*
 
 I'm Yashvi Sharma — an AI & Data Engineering student and **SDE Intern @Nielsen**. My day-to-day involves navigating the messy realities of machine learning, backend system, and agent architecture. 
 
