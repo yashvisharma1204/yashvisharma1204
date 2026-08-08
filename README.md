@@ -1,18 +1,8 @@
-Hey there! I'm Yashvi Sharma 👋
+>*"A curious mind with a wanna-know-it-all drive."*
 
-Third year B.Tech CSE (AI & Data Engineering student) at LPU
+I'm Yashvi Sharma — an AI & Data Engineering student and SDE Intern at Nielsen. My day-to-day involves navigating the messy realities of machine learning, backend system, and agent architecture. 
 
-SDE Intern @ Nielsen • Ex-Data Science Intern @ Futurense Technologies
-
-currently exploring:
-* anything and everything from scratch
-* machine learning & NLP
-* backend systems + scalable design
-* agentic ai
-
-interests:
-deep learning • interpretability • optimization • open source
-
-outside tech:
-binge watching • research rabbit holes • strategy games 
-I want to change it to above how to do it 
+* Currently building: A full-fledged personal research agent that parses papers, maps context into knowledge graphs, queries vector stores, and provides an active canvas for research notes.
+* Engineering philosophy: If you can't build it from scratch, you don't fully understand it yet. 
+* Core stack & focus: Java, Python, Spring Boot, FastAPI, PyTorch, Agentic Workflows, and NLP.
+* Curiosity: Inference-Time Learning and Fine Tuning Models
