@@ -9,10 +9,10 @@ I'm Yashvi Sharma — an AI & Data Engineering student and **SDE Intern @Nielsen
 <div align="left">
   <ul>
     <li><b>Open Source Contribution:</b>
-    <a src="https://github.com/checkstyle/checkstyle">
+    <a href="https://github.com/checkstyle/checkstyle">
       <img width="30" alt="image" src="https://github.com/user-attachments/assets/385e49b6-bac3-4ddc-8e31-1ee37e2c4d78" />
     </a>
-    <a src="https://github.com/probabl-ai/skore">
+    <a href="https://github.com/probabl-ai/skore">
       <img width="30" alt="image" src="https://github.com/user-attachments/assets/2b847ce6-1890-4738-959c-2074e64c9317" />
     </a>
     </li>
