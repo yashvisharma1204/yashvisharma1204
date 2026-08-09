@@ -6,3 +6,9 @@ I'm Yashvi Sharma — an AI & Data Engineering student and **SDE Intern @Nielsen
 * **Engineering philosophy:** If you can't build it from scratch, you don't fully understand it yet. 
 * **Core stack & focus:** `Java`, `Python`, `Spring Boot`, `FastAPI`, `PyTorch`, `Agentic Workflows`, and `NLP`.
 * **Curiosity:** Inference-Time Learning and Fine Tuning Models
+
+<div align="center">
+  <a src="https://github.com/checkstyle/checkstyle>
+  <img width="100"  alt="image" src="https://github.com/user-attachments/assets/a93c47ab-2250-413b-9dde-95071af5de24" />
+  </a>
+</div>
