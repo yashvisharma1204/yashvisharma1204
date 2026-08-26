@@ -1,8 +1,3 @@
->*"Driven by a quiet, insatiable obsession to see what’s written between the layers."*
+SDE Intern @Nielsen • [research agent](https://extraordinary-axolotl-c63e93.netlify.app) • [n-blogs](https://yashvisharma1204.github.io/neural.y/)
 
-I'm Yashvi Sharma — an AI & Data Engineering student and **SDE Intern @Nielsen**. My day-to-day involves navigating the messy realities of machine learning, backend system, and agent architecture. 
-
-* **Currently building:** A full-fledged personal research agent that parses papers, maps context into knowledge graphs, queries vector stores, and provides an active canvas for research notes.
-* **Engineering philosophy:** If you can't build it from scratch, you don't fully understand it yet. 
-* **Core stack & focus:** `Java`, `Python`, `Spring Boot`, `FastAPI`, `PyTorch`, `Agentic Workflows`, and `NLP`.
-* **Curiosity:** Inference-Time Learning and Fine Tuning Models
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29tMHE2cjlyeTY4bnF4bHZ3MGh2dWswMjl0dnFjcHpkNGFvYmdwcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif'>
